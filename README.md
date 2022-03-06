@@ -1,6 +1,1 @@
-# hello
-## good
-
-gyugyugtyu
-- hgh
-- jhjk
+# This is the documentation site for Bio Hack Academy 2022
