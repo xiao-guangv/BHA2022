@@ -1,1 +1,1 @@
-# Documentation site by Misa @Tokyo
+# Documentation site by Misa
