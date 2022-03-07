@@ -4,8 +4,9 @@
 2:Make a About Page and introduce yourself
 
 3:Answer the following questions:
-- What is Life? How would you define it, can you actually define it?
+- What is Life? How would you define it, can you actually define it?<br>
 →The conditions for being life can be listed, but not clearly defined.
+![IMG_2963.jpeg](IMG_2963.jpeg)
 
 - What is BioHacking? What does it mean for you?<br>
 →Bio Hacking means “do it yourself and think for yourself” for me.<br>
