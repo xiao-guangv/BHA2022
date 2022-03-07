@@ -8,8 +8,6 @@ Someday I would like to learn about the ecology of other creatures like apes.
 
 I have also recently begun to create my own artwork (I like using TouchDesigner).
 
-[embed](https://vimeo.com/685070269)
-
-The concept of this work is to attempt to simulate a life span.
-You can watch the video if you like.
+["departure point (2022)" - you can watch the video if you like.](https://vimeo.com/685070269)
+▲ The concept of this work is to attempt to simulate a life span.
 (If you have any comments or English corrections, I will be glad to hear them!)
