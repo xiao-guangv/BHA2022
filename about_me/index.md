@@ -4,7 +4,7 @@ Hi, I'm Misa Haneda.
 
 I'm interested in exploring the range of possibilities of how human can be.
 
-So recently I like to learn about human history (I’m a big fan of COTEN radio that podcast on Spotify) and read science fiction novel (I like “The left hand of darkness” written by Ursula K Le Guin) to know how people live in different environments than we do now.
+So recently I like to learn about human history (I’m a big fan of COTEN radio that podcast on Spotify) and read science fiction novel (I like “The left hand of darkness” written by Ursula K Le Guin) to know how human are in different environments than we do now.
 
 Someday I would like to learn about the ecology of other creatures like apes.
 
