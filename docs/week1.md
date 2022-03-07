@@ -7,7 +7,7 @@
 - What is Life? How would you define it, can you actually define it?
 →The conditions for being life can be listed, but not clearly defined.
 
-- What is BioHacking? What does it mean for you?
+- What is BioHacking? What does it mean for you?<br>
 →Bio Hacking means “do it yourself and think for yourself” for me.<br>
 Through Bio Hacking, I want to change the way I see the world, especially to feel the wonder of life activity.<br>
 I also want to deepen my own thinking about "what is life?".
