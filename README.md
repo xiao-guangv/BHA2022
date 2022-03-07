@@ -1,6 +1,6 @@
 ## This is the documentation site by Misa
 
-[about me](/Users/hanedamisa/Documents/BHAGitHub/about_me)
+[about me](/Users/hanedamisa/Documents/BHAGitHub/about_me/index.md)
 
 [docs](/Users/hanedamisa/Documents/BHAGitHub/docs)
 
