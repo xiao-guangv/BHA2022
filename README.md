@@ -2,6 +2,6 @@
 
 [about me](about_me/index.md)
 
-docs
+[docs](docs/index.md)
 
 final project (coming soon...)
