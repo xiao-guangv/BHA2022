@@ -8,7 +8,7 @@ Someday I would like to learn about the ecology of other creatures like apes.
 
 I have also recently begun to create my own artwork (I like using TouchDesigner).
 
-[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+[embed](https://vimeo.com/685070269)
 
 The concept of this work is to attempt to simulate a life span.
 You can watch the video if you like.
