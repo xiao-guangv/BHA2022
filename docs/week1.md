@@ -1,4 +1,4 @@
-## week1
+## week1 (2022/2/28~3/6)
 1:Make a public documentation site
 
 2:Make a About Page and introduce yourself
