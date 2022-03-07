@@ -1,4 +1,4 @@
-- [Week1: Introduction](docs/week1.md)
+- [Week1: Introduction](../week1.md)
 - Week2: Deconstructing the Lab
 - Week3: Making the Lab
 - Week4: Growing Materials
