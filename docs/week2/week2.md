@@ -1,6 +1,6 @@
 ## week2: Deconstructing the Lab (2022/3/7~3/13)
 
-### (1) I made a [FOLDSCOPE](https://www.foldscope.com/)<br>
+### (a) I made a [FOLDSCOPE](https://www.foldscope.com/)<br>
 [Manu Prakash](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami?language=ja) developped this microscope made of paper.
 
 * Cutting out parts<br>
@@ -16,7 +16,7 @@ by the way: He is water bear. The strongest organisms live in moss.<br>
 <img width="150" alt="img" src="week2_9.jpeg">
 <img width="150" alt="img" src="week2_8.jpeg">
 
-### (1') About the microscope in the first place<br>
+### (a') About the microscope in the first place<br>
 [Antonie van Leeuwenhoek](https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek) made the first microscope.<br>
 How was he able to create the microscopic lenses?
 Many thought it was polished.
@@ -32,7 +32,7 @@ There are two types of microscopes.
    (When viewed from above, it is difficult to see the evaporated water droplets. So look from the bottom)<br>
     <img width="300" alt="img" src="week2_7.jpeg">
 
-### (2) I made a pocketPCR
+### (b) I made a pocketPCR
 Polymerase Chain Reaction: A means of copying large quantities of DNA.
 - Purpose of PCR<br>
  By copying in large quantities, the DNA can be analyzed by electrophoresis. We can investigate what kind of DNA is present.
@@ -50,3 +50,6 @@ Polymerase Chain Reaction: A means of copying large quantities of DNA.
   Smaller lengths (fewer bases) move quickly. Move a lot.
  <img width="250" alt="img" src="week2_10.jpeg"><br>
 
+by the way: PCR machine in the 80's<br>
+<img width="150" alt="img" src="week2_13.jpeg">
+<img width="150" alt="img" src="week2_14.jpeg">
