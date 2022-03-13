@@ -1,6 +1,6 @@
 ## week2: Deconstructing the Lab (2022/3/7~3/13)
 
-### (A) I made a [FOLDSCOPE](https://www.foldscope.com/)<br>
+### (1) I made a [FOLDSCOPE](https://www.foldscope.com/)<br>
 [Manu Prakash](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami?language=ja) developped this microscope made of paper.
 
 * Cutting out parts<br>
@@ -11,8 +11,11 @@
 <img width="300" alt="img" src="week2_4.jpeg"><br>
 notes: When observing, z-axis adjustment is important. This time, it was observed beautifully in its thinnest state.<br>
 <img width="250" alt="img" src="week2_3.jpeg">
+by the way: He is water bear. The strongest organisms live in moss.<br>
+<img width="200" alt="img" src="week2_9.jpeg">
+<img width="200" alt="img" src="week2_8.jpeg">
 
-### (A') About the microscope in the first place<br>
+### (1') About the microscope in the first place<br>
 [Antonie van Leeuwenhoek](https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek) made the first microscope.<br>
 How was he able to create the microscopic lenses?
 Many thought it was polished.
@@ -27,4 +30,4 @@ There are two types of microscopes.
   (When viewed from above, it is difficult to see the evaporated water droplets. So look from the bottom)<br>
   <img width="300" alt="img" src="week2_7.jpeg">
 
-### (B)) I made a pocketPCR
+### (2) I made a pocketPCR
