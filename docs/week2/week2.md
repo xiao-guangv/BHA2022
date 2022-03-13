@@ -20,4 +20,8 @@ In reality, he produced beautiful lenses by heating and melting glass, then drop
 <img width="300" alt="img" src="week2_5.png">
 * There are two types of microscopes.
   * Type viewd from top
+  Mainly used to observe fixed and immobile objects. Use slides.
+  <img width="300" alt="img" src="week2_6.jpeg">
   * Type viewed from below
+  Mainly used to observe cells, bacteria, and moving objects in petri dishes.
+  <img width="300" alt="img" src="week2_7.jpeg">
