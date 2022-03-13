@@ -18,3 +18,6 @@ How was he able to create the microscopic lenses?
 Many thought it was polished.
 In reality, he produced beautiful lenses by heating and melting glass, then dropping it into water and letting it cool.<br>
 <img width="250" alt="img" src="week2_5.jpeg">
+* There are two types of microscopes.
+  * Type viewd from top
+  * Type viewed from below
