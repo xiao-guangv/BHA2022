@@ -12,6 +12,7 @@
 notes: When observing, z-axis adjustment is important. This time, it was observed beautifully in its thinnest state.<br>
 <img width="250" alt="img" src="week2_3.jpeg">
 by the way: He is water bear. The strongest organisms live in moss.<br>
+[Kumamushi teacher](http://www.kids-event.jp/interview/10185/)
 <img width="200" alt="img" src="week2_9.jpeg">
 <img width="200" alt="img" src="week2_8.jpeg">
 
