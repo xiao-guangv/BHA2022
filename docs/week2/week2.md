@@ -22,6 +22,7 @@ How was he able to create the microscopic lenses?
 Many thought it was polished.
 In reality, he produced beautiful lenses by heating and melting glass, then dropping it into water and letting it cool.<br>
 <img width="250" alt="img" src="week2_5.png"><br>
+
 There are two types of microscopes.
   1. Type viewd from top<br>
   Mainly used to observe fixed and immobile objects. Use slides.
@@ -33,4 +34,8 @@ There are two types of microscopes.
 
 ### (2) I made a pocketPCR
 Polymerase Chain Reaction: A means of copying large quantities of DNA.
-Purpose of PCR: By copying in large quantities, the DNA can be analyzed by electrophoresis. We can investigate what kind of DNA is present.
+- Purpose of PCR: By copying in large quantities, the DNA can be analyzed by electrophoresis. We can investigate what kind of DNA is present.
+- electrophoresis: DNA is negative.
+When electricity is passed through it, it tries to go to the positive side.
+DNA is injected into agar.
+Smaller lengths (fewer bases) move quickly. Move a lot.
