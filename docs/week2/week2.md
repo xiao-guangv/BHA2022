@@ -10,7 +10,7 @@
 * I observed a thin slice of fern.<br>
 <img width="300" alt="img" src="week2_4.jpeg"><br>
 notes: When observing, z-axis adjustment is important. This time, it was observed beautifully in its thinnest state.<br>
-
+<img width="250" alt="img" src="week2_3.jpeg">
 
 (A') About the microscope in the first place<br>
 [Antonie van Leeuwenhoek](https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek) made the first microscope.
