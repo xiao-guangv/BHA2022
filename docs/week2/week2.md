@@ -53,3 +53,10 @@ Polymerase Chain Reaction: A means of copying large quantities of DNA.
 by the way: PCR machine in the 80's<br>
 <img width="150" alt="img" src="week2_13.jpeg">
 <img width="150" alt="img" src="week2_14.jpeg">
+
+* Assemble the parts<br>
+  <img width="300" alt="img" src="week2_15.jpeg">
+* Soldering parts<br>
+  <img width="300" alt="img" src="week2_16.jpeg">
+* Done!! It works.<br>
+  <img width="300" alt="img" src="week2_17.jpeg">
