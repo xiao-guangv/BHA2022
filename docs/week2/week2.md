@@ -17,8 +17,8 @@ notes: When observing, z-axis adjustment is important. This time, it was observe
 How was he able to create the microscopic lenses?
 Many thought it was polished.
 In reality, he produced beautiful lenses by heating and melting glass, then dropping it into water and letting it cool.<br>
-<img width="250" alt="img" src="week2_5.png">
-* There are two types of microscopes.
+<img width="250" alt="img" src="week2_5.png"><br>
+There are two types of microscopes.
   1. Type viewd from top<br>
   Mainly used to observe fixed and immobile objects. Use slides.
   <img width="300" alt="img" src="week2_6.jpeg">
