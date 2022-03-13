@@ -32,4 +32,5 @@ There are two types of microscopes.
   <img width="300" alt="img" src="week2_7.jpeg">
 
 ### (2) I made a pocketPCR
-Polymerase Chain Reaction: 
+Polymerase Chain Reaction: A means of copying large quantities of DNA.
+Purpose of PCR: By copying in large quantities, the DNA can be analyzed by electrophoresis. We can investigate what kind of DNA is present.
