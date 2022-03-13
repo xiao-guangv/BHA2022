@@ -1,6 +1,6 @@
 ## This is the documentation site by Misa
 
-### - [about me](about_me/index.md)
+### - [about me](about)
 
 ### - [docs](docs/index.md)
 
