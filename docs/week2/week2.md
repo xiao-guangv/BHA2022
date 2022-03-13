@@ -23,5 +23,6 @@ In reality, he produced beautiful lenses by heating and melting glass, then drop
   Mainly used to observe fixed and immobile objects. Use slides.
   <img width="300" alt="img" src="week2_6.jpeg">
   * Type viewed from below
-  Mainly used to observe cells, bacteria, and moving objects in petri dishes.
+  Mainly used to observe cells, bacteria, and moving objects in petri dishes.<br>
+  (When viewed from above, it is difficult to see the evaporated water droplets. So look from the bottom)<br>
   <img width="300" alt="img" src="week2_7.jpeg">
