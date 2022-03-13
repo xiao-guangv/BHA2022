@@ -10,11 +10,11 @@
 * I observed a thin slice of fern.<br>
 <img width="300" alt="img" src="week2_4.jpeg"><br>
 notes: When observing, z-axis adjustment is important. This time, it was observed beautifully in its thinnest state.<br>
-<img width="250" alt="img" src="week2_3.jpeg">
+<img width="250" alt="img" src="week2_3.jpeg"><br>
 by the way: He is water bear. The strongest organisms live in moss.<br>
-[Kumamushi teacher](http://www.kids-event.jp/interview/10185/)
-<img width="200" alt="img" src="week2_9.jpeg">
-<img width="200" alt="img" src="week2_8.jpeg">
+[Kumamushi teacher](http://www.kids-event.jp/interview/10185/)<br>
+<img width="150" alt="img" src="week2_9.jpeg">
+<img width="150" alt="img" src="week2_8.jpeg">
 
 ### (1') About the microscope in the first place<br>
 [Antonie van Leeuwenhoek](https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek) made the first microscope.<br>
@@ -32,3 +32,4 @@ There are two types of microscopes.
   <img width="300" alt="img" src="week2_7.jpeg">
 
 ### (2) I made a pocketPCR
+Polymerase Chain Reaction: 
