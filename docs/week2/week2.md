@@ -48,5 +48,5 @@ Polymerase Chain Reaction: A means of copying large quantities of DNA.
   When electricity is passed through it, it tries to go to the positive side.
   DNA is injected into agar.
   Smaller lengths (fewer bases) move quickly. Move a lot.
- <img width="300" alt="img" src="week2_10.jpeg"><br>
+ <img width="250" alt="img" src="week2_10.jpeg"><br>
 
