@@ -34,16 +34,16 @@ There are two types of microscopes.
 
 ### (2) I made a pocketPCR
 Polymerase Chain Reaction: A means of copying large quantities of DNA.
-- Purpose of PCR
+- Purpose of PCR<br>
  By copying in large quantities, the DNA can be analyzed by electrophoresis. We can investigate what kind of DNA is present.
-- How PCR works
+- How PCR works<br>
   Repeat cooling (50 degrees) and heating (95 degrees).
   Taq polymerase, primers, a large amount of discrete ATCG, and DNA are placed in the liquid.
   At 95 degrees, the DNA chain is separated.
   At 50 degrees, the DNA and primer attach, then the polymerase attaches ATCG and copies the other end.
   This is repeated many many times.
   <img width="250" alt="img" src="week2_12.jpeg">
-- electrophoresis
+- electrophoresis<br>
   DNA is negative.
   When electricity is passed through it, it tries to go to the positive side.
   DNA is injected into agar.
