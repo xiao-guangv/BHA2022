@@ -7,4 +7,7 @@ notes: [Manu Prakash](https://www.ted.com/talks/manu_prakash_a_50_cent_microscop
 <img width="300" alt="img" src="week2_1.jpeg">
 * Assemble the parts<br>
 <img width="300" alt="img" src="week2_2.jpeg">
-* I observed a thin slice of fern.
+* I observed a thin slice of fern.<br>
+<img width="300" alt="img" src="week2_4.jpeg">
+notes: When observing, z-axis adjustment is important.  time, it was observed beautifully in its thinnest state.<br>
+<img width="250" alt="img" src="week2_3.jpeg">
