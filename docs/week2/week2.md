@@ -14,3 +14,7 @@ notes: When observing, z-axis adjustment is important. This time, it was observe
 
 (A') About the microscope in the first place<br>
 [Antonie van Leeuwenhoek](https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek) made the first microscope.
+How was he able to create the microscopic lenses?
+Many thought it was polished.
+In reality, he produced beautiful lenses by heating and melting glass, then dropping it into water and letting it cool.<br>
+<img width="250" alt="img" src="week2_5.jpeg">
