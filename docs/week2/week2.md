@@ -19,10 +19,10 @@ Many thought it was polished.
 In reality, he produced beautiful lenses by heating and melting glass, then dropping it into water and letting it cool.<br>
 <img width="250" alt="img" src="week2_5.png">
 * There are two types of microscopes.
-  * Type viewd from top<br>
+  1. Type viewd from top<br>
   Mainly used to observe fixed and immobile objects. Use slides.
   <img width="300" alt="img" src="week2_6.jpeg">
-  * Type viewed from below<br>
+  2. Type viewed from below<br>
   Mainly used to observe cells, bacteria, and moving objects in petri dishes.<br>
   (When viewed from above, it is difficult to see the evaporated water droplets. So look from the bottom)<br>
   <img width="300" alt="img" src="week2_7.jpeg">
