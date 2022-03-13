@@ -11,3 +11,5 @@
 <img width="300" alt="img" src="week2_4.jpeg"><br>
 notes: When observing, z-axis adjustment is important. This time, it was observed beautifully in its thinnest state.<br>
 <img width="250" alt="img" src="week2_3.jpeg">
+
+(A') About the microscope in the first place
