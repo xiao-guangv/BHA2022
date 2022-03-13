@@ -17,7 +17,7 @@ notes: When observing, z-axis adjustment is important. This time, it was observe
 How was he able to create the microscopic lenses?
 Many thought it was polished.
 In reality, he produced beautiful lenses by heating and melting glass, then dropping it into water and letting it cool.<br>
-<img width="250" alt="img" src="week2_5.jpeg">
+<img width="300" alt="img" src="week2_5.png">
 * There are two types of microscopes.
   * Type viewd from top
   * Type viewed from below
