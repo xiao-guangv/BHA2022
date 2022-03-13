@@ -2,3 +2,4 @@
 
 (A) I made a [FOLDSCOPE](https://www.foldscope.com/)
 * Cutting out parts
+<img width="300" alt="img" src="week2_1.jpeg">
