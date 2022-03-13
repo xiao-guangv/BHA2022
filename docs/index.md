@@ -1,7 +1,7 @@
 ## docs
 
 - [Week1: Introduction](week1.md)
-- Week2: Deconstructing the Lab
+- [Week2: Deconstructing the Lab](week2.md)
 - Week3: Making the Lab
 - Week4: Growing Materials
 - Week5: Growing more (HLN)
