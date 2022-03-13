@@ -40,7 +40,7 @@ Polymerase Chain Reaction: A means of copying large quantities of DNA.
   Repeat cooling (50 degrees) and heating (95 degrees).
   Taq polymerase, primers, a large amount of discrete ATCG, and DNA are placed in the liquid.
   At 95 degrees, the DNA chain is separated.
-  At 50 degrees, the DNA and primer attach, then the ATCG attaches and copies the other end.
+  At 50 degrees, the DNA and primer attach, then the polymerase attaches ATCG and copies the other end.
   This is repeated many many times.
   <img width="250" alt="img" src="week2_12.jpeg">
 - electrophoresis
