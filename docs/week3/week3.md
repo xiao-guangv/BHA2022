@@ -5,9 +5,9 @@ I downloaded free non-commercial version of Fusion and Blender.
 I was able to open the .stl file in both software programs.
 <img width="300" alt="img" src="fusion_1.png"><br>
 ※It took almost 15min to download and setup Fusion.<br>
-In blender, STL software opened when I selected "import" instead of "open".
+In blender, STL software opened when I selected "import" instead of "open".<br>
 <img width="300" alt="img" src="blender_4.png"><br>
-
+<img width="300" alt="img" src="DSC_6331.JPG"><br>
 
 There are too many features.
 I am not sure which mark is what function.
