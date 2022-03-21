@@ -74,3 +74,18 @@ Consider the orientation of the data so that the 3D printer can physically print
 <img width="300" alt="img" src="3d_4.png"><br>
 <img width="300" alt="img" src="3d_5.png"><br>
 <img width="300" alt="img" src="3d_6.png"><br>
+#### (3) Select the 3D printer to use
+However, no other options, such as ender, appeared among the choices.
+<img width="300" alt="img" src="3d_7.png"><br>
+#### (4) Execute 3D data slicing
+<img width="300" alt="img" src="3d_8.png"><br>
+<img width="300" alt="img" src="3d_9.png"><br>
+The thinner the slice, the longer it takes to print.
+#### (5) Get a G-code
+<img width="300" alt="img" src="3d_10.png"><br>
+<img width="300" alt="img" src="3d_11.png"><br>
+Every 3D printer works with this code file for every machine.
+#### (6) Put data into the 3D printer and run it.
+<img width="300" alt="img" src="3d_1.png"><br>
+<img width="300" alt="img" src="3d_2.png"><br>
+The stage is 50 degrees and the Extruder is 210 degrees.
