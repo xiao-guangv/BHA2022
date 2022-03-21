@@ -20,7 +20,8 @@ I am not sure which mark is what function.
 When I tried to manipulate something in blender, I got this error.<br>
 <img width="300" alt="img" src="blender_3.png"><br>
 
-By the way: For TouchDesigner, .stl files were not supported.<br>
+By the way: for TouchDesigner, .stl files were not supported.<br>
+I changed .stl to .fbx and was able to import.<br>
 <img width="200" alt="img" src="td_1.png"><br>
 <img width="200" alt="img" src="td_2.png"><br>
 
