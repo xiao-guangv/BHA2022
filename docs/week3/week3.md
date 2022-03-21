@@ -29,3 +29,11 @@ I changed .stl to .fbx and was able to import.<br>
 I made a cleanbench with Shiho and Ai.<br>
 <img width="350" alt="img" src="cleanbench_5.JPG"><br>
 
+#### (1) Sketch a design image
+<img width="300" alt="img" src="cleanbench1.JPG"><br>
+
+#### (2) Production started
+We tried to make holes to put your hand in, window to look in and holes and ducts for airflow (holes have filters).
+<img width="300" alt="img" src="cleanbench_2.JPG"><br>
+<img width="300" alt="img" src="cleanbench_3.JPG"><br>
+<img width="300" alt="img" src="cleanbench_4.JPG"><br>
