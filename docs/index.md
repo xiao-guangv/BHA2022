@@ -2,7 +2,7 @@
 
 - [Week1: Introduction](week1/week1.md)
 - [Week2: Deconstructing the Lab](week2/week2.md)
-- Week3: Making the Lab
+- [Week3: Making the Lab](week3/week3.md)
 - Week4: Growing Materials
 - Week5: Growing more (HLN)
 - Week6: Life in Silico
