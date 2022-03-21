@@ -4,10 +4,17 @@
 I downloaded free non-commercial version of Fusion and Blender.
 I was able to open the .stl file in both software programs.
 <img width="300" alt="img" src="fusion_1.png"><br>
-※It took almost 15min to download and setup Fusion.
+※It took almost 15min to download and setup Fusion.<br>
+In blender, STL software opened when I selected "import" instead of "open".
+<img width="300" alt="img" src="blender_4.png"><br>
+
 
 There are too many features.
 I am not sure which mark is what function.
 <img width="300" alt="img" src="fusion_2.png"><br>
 <img width="300" alt="img" src="blender_1.png"><br>
 <img width="300" alt="img" src="blender_2.png"><br>
+
+When I tried to manipulate something in blender, I got this error.<br>
+<img width="300" alt="img" src="blender_3.png"><br>
+
