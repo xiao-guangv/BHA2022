@@ -65,3 +65,7 @@ We tried to make holes to put your hands in, window to look in and holes and duc
 ###  3. Fork and Change the BHA Stirrer Repo<br>
 
 ###  4. Prepare the PocketPCR Case for 3D Printing<br>
+I downloaded "purca slicer" to load sliced 3D data into a 3D printer.
+
+#### (1) Open PCR case data in purca slicer
+<img width="300" alt="img" src="3d_3.png"><br>
