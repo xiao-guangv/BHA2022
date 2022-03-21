@@ -3,12 +3,13 @@
 ###  1. Install and Test at least 2 different 3D Applications<br>
 I downloaded free non-commercial version of Fusion and Blender.
 I was able to open the .stl file in both software programs.
+<img width="300" alt="img" src="DSC_6331.JPG"><br>
+
 <img width="300" alt="img" src="fusion_1.png"><br>
 ※It took almost 15min to download and setup Fusion.<br>
 
 In blender, STL software opened when I selected "import" instead of "open".<br>
 <img width="300" alt="img" src="blender_4.png"><br>
-<img width="300" alt="img" src="DSC_6331.JPG"><br>
 
 There are too many features.
 I am not sure which mark is what function.
@@ -22,3 +23,5 @@ When I tried to manipulate something in blender, I got this error.<br>
 By the way: For TouchDesigner, .stl files were not supported.<br>
 <img width="200" alt="img" src="td_1.png"><br>
 <img width="200" alt="img" src="td_2.png"><br>
+
+###  2. Hands-on Group Work: Design and Make a CleanBox<br>
