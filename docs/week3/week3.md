@@ -51,5 +51,13 @@ We tried to make holes to put your hands in, window to look in and holes and duc
 ※I lit the inside from the outside with our phone.
 <img width="300" alt="img" src="cleanbench_7.JPG"><br>
 - Inside the box, the floor must be flat.
+<img width="300" alt="img" src="DSC_6412.JPG"><br>
 <img width="300" alt="img" src="cleanbench_10.jpeg"><br>
 <img width="300" alt="img" src="cleanbench_11.jpeg"><br>
+- Need a place to dispose of used pipettes
+- How about a cellophane window to look inside?
+- Wind is better when the hole is large and flows slowly from above.
+
+#### this is the real cleanbench
+<img width="300" alt="img" src="cleanbench_12.jpeg"><br>
+<img width="300" alt="img" src="cleanbench_13.jpeg"><br>
