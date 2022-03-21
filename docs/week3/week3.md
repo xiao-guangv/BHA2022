@@ -61,3 +61,7 @@ We tried to make holes to put your hands in, window to look in and holes and duc
 #### this is the real cleanbench
 <img width="300" alt="img" src="cleanbench_12.jpeg"><br>
 <img width="300" alt="img" src="cleanbench_13.jpeg"><br>
+
+###  3. Fork and Change the BHA Stirrer Repo<br>
+
+###  4. Prepare the PocketPCR Case for 3D Printing<br>
