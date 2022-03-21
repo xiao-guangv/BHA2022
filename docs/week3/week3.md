@@ -27,13 +27,23 @@ I changed .stl to .fbx and was able to import.<br>
 
 ###  2. Hands-on Group Work: Design and Make a CleanBox<br>
 I made a cleanbench with Shiho and Ai.<br>
-<img width="350" alt="img" src="cleanbench_5.JPG"><br>
 
 #### (1) Sketch a design image
 <img width="300" alt="img" src="cleanbench1.JPG"><br>
 
 #### (2) Production started
-We tried to make holes to put your hand in, window to look in and holes and ducts for airflow (holes have filters).
+We tried to make holes to put your hands in, window to look in and holes and ducts for airflow (holes have filters).
 <img width="300" alt="img" src="cleanbench_2.JPG"><br>
 <img width="300" alt="img" src="cleanbench_3.JPG"><br>
 <img width="300" alt="img" src="cleanbench_4.JPG"><br>
+
+#### (3) Done!!
+<img width="350" alt="img" src="cleanbench_5.JPG"><br>
+
+#### (4) Trial by Hosotani-san
+<img width="300" alt="img" src="cleanbench_6.JPG"><br>
+<img width="300" alt="img" src="cleanbench_7.JPG"><br>
+<img width="300" alt="img" src="cleanbench_8.JPG"><br>
+
+feedback from Hosotani-san
+- 
