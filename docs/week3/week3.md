@@ -1,4 +1,4 @@
-## week3: DMaking the Lab (2022/3/14~3/20)
+## week3: Making the Lab (2022/3/14~3/20)
 
 ###  1. Install and Test at least 2 different 3D Applications<br>
 I downloaded free non-commercial version of Fusion and Blender.
