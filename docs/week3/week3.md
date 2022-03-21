@@ -48,7 +48,7 @@ We tried to make holes to put your hands in, window to look in and holes and duc
 - The entrance for getting tools in and out should be larger.<br>
 <img width="300" alt="img" src="cleanbench_9.JPG"><br>
 - Need a light inside.<br>
-※I lit the inside from the outside with our phone.
+※We lit the inside from the outside with our phone.
 <img width="300" alt="img" src="cleanbench_7.JPG"><br>
 - Inside the box, the floor must be flat.
 <img width="300" alt="img" src="DSC_6412.JPG"><br>
