@@ -70,7 +70,7 @@ I downloaded "purca slicer" to load sliced 3D data into a 3D printer.
 #### (1) Open PCR case data in purca slicer
 <img width="300" alt="img" src="3d_3.png"><br>
 #### (2) Rotate to change data orientation
-Consider the orientation of the data so that the 3D printer can physically print it.
+Consider the orientation of the data so that the 3D printer can physically print it.<br>
 <img width="300" alt="img" src="3d_4.png"><br>
 <img width="300" alt="img" src="3d_5.png"><br>
 <img width="300" alt="img" src="3d_6.png"><br>
@@ -86,6 +86,6 @@ The thinner the slice, the longer it takes to print.
 <img width="300" alt="img" src="3d_11.png"><br>
 Every 3D printer works with this code file for every machine.
 #### (6) Put data into the 3D printer and run it.
-<img width="300" alt="img" src="3d_1.png"><br>
-<img width="300" alt="img" src="3d_2.png"><br>
+<img width="300" alt="img" src="3d_1.jpeg"><br>
+<img width="300" alt="img" src="3d_2.jpeg"><br>
 The stage is 50 degrees and the Extruder is 210 degrees.
