@@ -26,6 +26,6 @@ I changed .stl to .fbx and was able to import.<br>
 <img width="300" alt="img" src="td_2.png"><br>
 
 ###  2. Hands-on Group Work: Design and Make a CleanBox<br>
-I made a cleanbench with Shiho and Ai.
-<img width="200" alt="img" src="cleanbench_5.JPG"><br>
+I made a cleanbench with Shiho and Ai.<br>
+<img width="350" alt="img" src="cleanbench_5.JPG"><br>
 
