@@ -63,13 +63,13 @@ We tried to make holes to put your hands in, window to look in and holes and duc
 <img width="300" alt="img" src="cleanbench_13.jpeg"><br>
 
 ###  3. Fork and Change the BHA Stirrer Repo<br>
-I cloned the Stirrer repository from BHA GitHub to mine.
-<img width="300" alt="img" src="github_1">
-<img width="300" alt="img" src="github_2">
-<img width="300" alt="img" src="github_3">
-<img width="300" alt="img" src="github_4">
+I cloned the Stirrer repository from BHA GitHub to mine.<br>
+<img width="300" alt="img" src="github_1.png">
+<img width="300" alt="img" src="github_2.png">
+<img width="300" alt="img" src="github_3.png">
+<img width="300" alt="img" src="github_4.png">
 I changed 1 line in "BoM_Japan.md" file.<br>
-<img width="300" alt="img" src="github_5">
+<img width="300" alt="img" src="github_5.png">
 
 ###  4. Prepare the PocketPCR Case for 3D Printing<br>
 I downloaded "purca slicer" to load sliced 3D data into a 3D printer.
