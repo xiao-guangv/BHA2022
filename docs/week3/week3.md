@@ -64,6 +64,7 @@ We tried to make holes to put your hands in, window to look in and holes and duc
 
 ###  3. Fork and Change the BHA Stirrer Repo<br>
 
+
 ###  4. Prepare the PocketPCR Case for 3D Printing<br>
 I downloaded "purca slicer" to load sliced 3D data into a 3D printer.
 
@@ -86,6 +87,6 @@ The thinner the slice, the longer it takes to print.
 <img width="300" alt="img" src="3d_11.png"><br>
 Every 3D printer works with this code file for every machine.
 #### (6) Put data into the 3D printer and run it.
-<img width="300" alt="img" src="3d_1.jpeg"><br>
+<img width="300" alt="img" src="3d_1.jpeg">
 <img width="300" alt="img" src="3d_2.jpeg"><br>
 The stage is 50 degrees and the Extruder is 210 degrees.
