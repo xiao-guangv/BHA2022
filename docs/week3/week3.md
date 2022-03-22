@@ -68,7 +68,8 @@ I cloned the Stirrer repository from BHA GitHub to mine.
 <img width="300" alt="img" src="github_2">
 <img width="300" alt="img" src="github_3">
 <img width="300" alt="img" src="github_4">
-
+I changed 1 line in "BoM_Japan.md" file.<br>
+<img width="300" alt="img" src="github_5">
 
 ###  4. Prepare the PocketPCR Case for 3D Printing<br>
 I downloaded "purca slicer" to load sliced 3D data into a 3D printer.
