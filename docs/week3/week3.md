@@ -85,7 +85,7 @@ The thinner the slice, the longer it takes to print.
 #### (5) Get a G-code
 <img width="300" alt="img" src="3d_10.png"><br>
 <img width="300" alt="img" src="3d_11.png"><br>
-Every 3D printer works with this code file for every machine.
+Every 3D printer works with this code file.
 #### (6) Put data into the 3D printer and run it.
 <img width="300" alt="img" src="3d_1.jpeg">
 <img width="300" alt="img" src="3d_2.jpeg"><br>
