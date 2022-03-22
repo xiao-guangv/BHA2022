@@ -69,7 +69,7 @@ I cloned the Stirrer repository from BHA GitHub to mine.<br>
 <img width="300" alt="img" src="github_3.png">
 <img width="300" alt="img" src="github_4.png"><br>
 I added amazon link to 80mm fan in "BoM_Japan.md" file.<br>
-<img width="300" alt="img" src="github_5.png">
+<img width="300" alt="img" src="gthub_5.png">
 <img width="300" alt="img" src="github_6.png">
 
 ###  4. Prepare the PocketPCR Case for 3D Printing<br>
