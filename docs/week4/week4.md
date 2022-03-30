@@ -2,4 +2,4 @@
 
 ####  [1. Make cultivation media for bacteria and plants](1/1.md)
 
-####  [2. SCOBY: KOMBUCHA × KONBUCHA](2/2.md)
+####  [2. Growing SCOBY: KOMBUCHA × KONBUCHA](2/2.md)
