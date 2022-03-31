@@ -11,5 +11,5 @@ Is it because of the low temperature in the lab?<br>
 <img width="300" alt="img" src="images/IMG_3528.jpeg">
 <img width="300" alt="img" src="images/IMG_3529.jpeg">
 <img width="300" alt="img" src="images/IMG_3531.jpeg">
-<img width="300" alt="img" src="images/IMG_3534.jpeg">
+<img width="300" alt="img" src="images/IMG_3533.jpeg">
 <img width="300" alt="img" src="images/IMG_3535.jpeg">
