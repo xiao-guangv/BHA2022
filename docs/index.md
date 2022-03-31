@@ -10,3 +10,5 @@
 - Week8: Personal Project
 - Week9: Personal Project
 - Week10: Presentations
+- [extra1: SCOBY @lab](extra1/index.md)
+- [extra2: SCOBY @home](extra2/index.md)
