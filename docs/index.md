@@ -4,7 +4,7 @@
 - [Week2: Deconstructing the Lab](week2/week2.md)
 - [Week3: Making the Lab](week3/week3.md)
 - [Week4: Growing Materials](week4/week4.md)
-- Week5: Growing more (HLN)
+- [Week5: Growing more (HLN)](week5/week5.md)
 - Week6: Life in Silico
 - Week7: CRISPER Week
 - Week8: Personal Project
