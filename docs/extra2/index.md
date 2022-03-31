@@ -5,7 +5,7 @@
 
 ### 28th March, Thu
 <img width="300" alt="img" src="images/IMG_3513.jpeg"><br>
-It smelled sweet.
+It smelled still sweet.
 
 ### 31th March, Thu
 <img width="300" alt="img" src="images/IMG_3609.jpeg"><br>
