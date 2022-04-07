@@ -1,14 +1,14 @@
 ## docs
 
-- [Week1: Introduction](week1/week1.md)
-- [Week2: Deconstructing the Lab](week2/week2.md)
-- [Week3: Making the Lab](week3/week3.md)
-- [Week4: Growing Materials](week4/week4.md)
-- [Week5: Growing more (HLN)](week5/week5.md)
-- Week6: Life in Silico
-- Week7: CRISPER Week
-- Week8: Personal Project
-- Week9: Personal Project
+- [Week1 (2022/2/28~3/6) : Introduction](week1/week1.md)
+- [Week2 (2022/3/7~3/13) : Deconstructing the Lab](week2/week2.md)
+- [Week3 (2022/3/14~3/20) : Making the Lab](week3/week3.md)
+- [Week4 (2022/3/21~3/27) : Growing Materials](week4/week4.md)
+- [Week5 (2022/3/28~4/3) : Growing more (HLN)](week5/week5.md)
+- [Week6 (2022/4/4~4/10) : Life in Silico](week6/week6.md)
+- Week7 (2022/4/11~4/17): CRISPER Week
+- Week8 (2022/4/18~4/24): Personal Project
+- Week9 (2022/4/25~5/1): Personal Project
 - Week10: Presentations
 
 - [extra1: SCOBY @lab](extra1/index.md)
