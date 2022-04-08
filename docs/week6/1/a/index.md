@@ -62,7 +62,7 @@
 
   * *Animal Breeding*<br>
   <img alt="img" src="images/IMG_3692.jpeg">
-  <img alt="img" src="images/IMG_3689.jpeg">
+  <img width="300" alt="img" src="images/IMG_3689.jpeg">
   <img alt="img" src="images/IMG_3691.jpeg">
   <img alt="img" src="images/IMG_3690.jpeg">
   Animal feed
