@@ -4,6 +4,7 @@ Some bottles had grown fluffy. They also smelled a little sour.<br>
 We moved the place to a warmer location.<br>
 Next week we gonna taste them!<br>
 
+<img alt="img" src="images/IMG_3745.jpeg">
 
 <img alt="img" src="images/IMG_3734.jpeg">
 <img alt="img" src="images/IMG_3735.jpeg">
