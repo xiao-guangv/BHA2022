@@ -16,11 +16,11 @@
   <img alt="img" src="images/IMG_3635.jpeg">
   <img width="300" alt="img" src="images/IMG_3647.jpeg"><br>
   The temperature depends on the type of cyanobacteria, but in this laboratory it is kept at about 30 degrees Celsius.<br>
-
+  
     <img width="300" alt="img" src="images/IMG_3663.jpeg"><br>
     Incubator with strict control of light intensity<br>
-
-   <img width="300" alt="img" src="images/IMG_3657.jpeg"><br>
+    
+    <img width="300" alt="img" src="images/IMG_3657.jpeg"><br>
     Liquid media have the advantage of being able to culture full numbers.
     The air is sent through a tube, but because it dries out quickly if sent as is, water vapor is passed through the air once. A filter is also passed through to prevent bacteria.
 
@@ -38,7 +38,7 @@
     <img width="300" alt="img" src="images/IMG_3641.jpeg"><br>
     Cyanobacteria, E. coli, RNA, enzymes, and other fragile items that should be handled with care are placed in a -80 degree freezer.
 
-**(3)There are many equipments that are not available in our lab @ Shibuya**<br>
+**(3)Equipments not available in our lab**<br>
 
   * *Various chemicals*<br>
   <img alt="img" src="images/IMG_3637 2.jpeg">
@@ -52,7 +52,7 @@
     <img width="300" alt="img" src="images/IMG_3654.jpeg"><br>
     Equipment built by themselves for about 3 million yen
 
-    <img width="300" alt="img" src="images/IMG_3662.jpeg">
+    <img width="300" alt="img" src="images/IMG_3662.jpeg"><br>
     Room for optical microscopy
 
   * *Shaker*<br>
