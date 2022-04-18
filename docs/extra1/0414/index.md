@@ -1,6 +1,6 @@
 ### 14th April, Thu
 
-- Those that are fermenting are changing color or becoming cloudy.<br>
+- **Those that are fermenting are changing color or becoming cloudy.**<br>
 
   <img width="70%" alt="img" src="images/1.jpeg">
   <img width="70%" alt="img" src="images/2.jpeg">
@@ -20,7 +20,7 @@
   <img width="70%" alt="img" src="images/10.jpeg">
   <img width="70%" alt="img" src="images/11.jpeg">
 
-- Cellulose was produced in the bottles where fermentation was in progress.
+- **Cellulose was produced in the bottles where fermentation was in progress.**
 
   <img width="70%" alt="img" src="images/IMG_3894.jpeg"><br>
   ↑NO.7
@@ -32,7 +32,7 @@
   ↑There was cellulose also in the bottle filled only with kelp tea! (NO.11)
 
 
-- **Finally we tasted them!!**
+- **Finally we tasted them!!**<br>
   NO.1, 2, 9 taste really good!!<br>
   It seems that NO.9 is combined with the droth.<br>
 
@@ -47,6 +47,3 @@
 
   <img alt="img" src="images/BHA0414-103.jpg"><br>
   ↑It's so good in a gin cocktail!
-
-
-
