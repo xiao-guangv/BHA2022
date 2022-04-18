@@ -1,6 +1,6 @@
 ### 14th April, Thu
 
-This is the last day.<br>]
+This is the last day.<br>
 We ganna autoclave them.<br>
 **Good bye bacterias!!!**
 
