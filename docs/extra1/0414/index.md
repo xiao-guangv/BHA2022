@@ -2,12 +2,12 @@
 
 Those that are fermenting are changing color or becoming cloudy.<br>
 
-<img alt="img" src="images/1.jpeg">
-<img alt="img" src="images/2.jpeg">
-<img alt="img" src="images/3.jpeg">
-<img alt="img" src="images/4.jpeg">
-<img alt="img" src="images/5.jpeg">
-<img alt="img" src="images/6.jpeg"><br>
+<img width="70%" alt="img" src="images/1.jpeg">
+<img width="70%" alt="img" src="images/2.jpeg">
+<img width="70%" alt="img" src="images/3.jpeg">
+<img width="70%" alt="img" src="images/4.jpeg">
+<img width="70%" alt="img" src="images/5.jpeg">
+<img width="70%" alt="img" src="images/6.jpeg"><br>
 ↑No.5 and 6 had not changed.<br>
 
 <img alt="img" src="images/7.jpeg"><br>
