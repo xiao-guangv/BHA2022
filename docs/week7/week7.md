@@ -2,4 +2,6 @@
 
 ####  [1. Miso observing](1/1.md)
 
-####  [2. Learning about CRISPER](2/2.md)
+####  [2. SCOBY tasting](../extra1/0414/index.md)
+
+####  [3. Learning about CRISPER](3/3.md)
