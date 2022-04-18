@@ -22,13 +22,13 @@
 
 - **Cellulose was produced in the bottles where fermentation was in progress.**
 
-  <img width="70%" alt="img" src="images/IMG_3894.jpeg"><br>
+  <img width="90%" alt="img" src="images/IMG_3894.jpeg"><br>
   ↑NO.7
 
   <img width="70%" alt="img" src="images/IMG_3852.jpeg"><br>
   ↑NO.9
 
-  <img width="70%" alt="img" src="images/IMG_3851.jpeg"><br>
+  <img width="90%" alt="img" src="images/IMG_3851.jpeg"><br>
   ↑There was cellulose also in the bottle filled only with kelp tea! (NO.11)
 
 
@@ -41,9 +41,8 @@
   <img alt="img" src="images/BHA0414-3.jpg">
   <img alt="img" src="images/BHA0414-102.jpg">
 
-  On the other hand, bottles that had not fermented at all tasted quite bad.<br>
-  So, I added new SCOBY to them.<br>
-  <img width="70%" alt="img" src="images/IMG_3898.jpeg"><br>
+  On the other hand, bottles that had not fermented at all tasted quite bad.So, I added new SCOBY to them.<br>
+  <img alt="img" src="images/IMG_3898.jpeg"><br>
 
   <img alt="img" src="images/BHA0414-103.jpg"><br>
   ↑It's so good in a gin cocktail!
