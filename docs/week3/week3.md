@@ -7,3 +7,5 @@
 ####  [3. Fork and Change the BHA Stirrer Repo](3/3.md)
 
 ####  [4. Prepare the PocketPCR Case for 3D Printing](4/4.md)
+
+<img alt="img" src="images/cleanbench_5.JPG">
