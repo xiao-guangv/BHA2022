@@ -6,7 +6,7 @@
 - [Week4 (2022/3/21~3/27) : Growing Materials](week4/week4.md)
 - [Week5 (2022/3/28~4/3) : Growing more (HLN)](week5/week5.md)
 - [Week6 (2022/4/4~4/10) : Life in Silico](week6/week6.md)
-- Week7 (2022/4/11~4/17): CRISPER Week
+- [Week7 (2022/4/11~4/17): CRISPER Week](week7/week7.md)
 - Week8 (2022/4/18~4/24): Personal Project
 - Week9 (2022/4/25~5/1): Personal Project
 - Week10: Presentations
