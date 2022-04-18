@@ -1,6 +1,6 @@
 ### 14th April, Thu
 
-- I got some microorganisms in the pond.
+- I got some microorganisms in the pond at the park near from the lab.
 
   <img width="70%" alt="img" src="images/3.jpeg">
   <img width="70%" alt="img" src="images/2.jpeg">
