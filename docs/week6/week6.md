@@ -4,4 +4,4 @@
 
 ####  [2. Bacteria hunting at the park](2/2.md)
 
-<img wiwdth="30%" alt="img" src="images/IMG_4301.HEIC"><img wiwdth="30%" alt="img" src="images/IMG_4302.HEIC">
+<img wiwdth="150" alt="img" src="images/IMG_4301.HEIC"><img wiwdth="150" alt="img" src="images/IMG_4302.HEIC">
