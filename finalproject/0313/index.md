@@ -7,4 +7,4 @@ Ideas I'm thinking about...
 蠢く。
 インタラクションもできる。
 
-- #2. Reproduction, something that relates to male and female things
+
