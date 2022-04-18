@@ -17,10 +17,11 @@ Fluffy stuff seems to be growing.
 It smells sour and tasty.
 
   I want more so I moved it to a bigger jar.<br>
-    **Recipe**
-    - water 700ml
-    - sugar 35g
-    - tea 2bags
+  
+   **Recipe**
+   - water 700ml
+   - sugar 35g
+   - tea 2bags
 
   <img width="300" alt="img" src="images/IMG_3928.jpeg"><br>
   <img height="400" alt="img" src="images/IMG_3936.jpeg"><br>
