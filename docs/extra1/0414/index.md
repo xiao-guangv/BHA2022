@@ -44,5 +44,5 @@
   On the other hand, bottles that had not fermented at all tasted quite bad.So, I added new SCOBY to them.<br>
   <img alt="img" src="images/IMG_3898.jpeg"><br>
 
+  By the way, It's so good in a gin cocktail!<br>
   <img alt="img" src="images/BHA0414-103.jpg"><br>
-  ↑By the way, It's so good in a gin cocktail!
