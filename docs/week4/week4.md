@@ -5,3 +5,5 @@
 ####  [2. Growing SCOBY: KOMBUCHA × KONBUCHA](2/2.md)
 
 ####  [3. Make media at home and grow something](3/3.md.md)
+
+<img alt="img" src="images/IMG_3358.jpeg">
