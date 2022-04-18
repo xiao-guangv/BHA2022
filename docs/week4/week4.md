@@ -6,4 +6,4 @@
 
 ####  [3. Make media at home and grow something](3/3.md.md)
 
-<img alt="img" src="images/IMG_3358.jpeg">
+<img alt="img" src="images/IMG_3350.jpeg">
