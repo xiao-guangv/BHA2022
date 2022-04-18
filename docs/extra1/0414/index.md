@@ -1,12 +1,15 @@
 ### 14th April, Thu
 
 Those that are fermenting are changing color or becoming cloudy.<br>
+
 <img alt="img" src="images/1.jpeg">
 <img alt="img" src="images/2.jpeg">
 <img alt="img" src="images/3.jpeg">
 <img alt="img" src="images/4.jpeg">
 <img alt="img" src="images/5.jpeg">
-<img alt="img" src="images/6.jpeg">
+<img alt="img" src="images/6.jpeg"><br>
+↑No.5 and 6 had not changed.<br>
+
 <img alt="img" src="images/7.jpeg"><br>
 ↑The sphere is getting huge....!!
 
@@ -17,7 +20,15 @@ Those that are fermenting are changing color or becoming cloudy.<br>
 <img alt="img" src="images/10.jpeg">
 <img alt="img" src="images/11.jpeg">
 
+Cellulose was produced in the bottles where fermentation was in progress.
 
+<img alt="img" src="images/IMG_3894.jpeg"><br>
+NO.7
+
+<img alt="img" src="images/IMG_3852.jpeg"><br>
+NO.9
+<img alt="img" src="images/IMG_3851.jpeg"><br>
+↑There was cellulose also in the bottle filled only with kelp tea! (NO.11)
 
 
 **Finally we tasted them!!**
