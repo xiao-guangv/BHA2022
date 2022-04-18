@@ -6,4 +6,4 @@
 
 ####  [3. Learning about CRISPER](3/3.md)
 
-<img width="70%" alt="img" src="images/BHA0414-1.jpg">
+<img alt="img" src="images/BHA0414-1.jpg">
