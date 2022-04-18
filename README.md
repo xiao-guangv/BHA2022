@@ -4,4 +4,4 @@
 
 ### - [docs](docs/index.md)
 
-### - [final project](finalproject) (coming soon...)
+### - [final project](finalproject/index.md)
