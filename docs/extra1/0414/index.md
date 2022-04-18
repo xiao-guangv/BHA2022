@@ -45,4 +45,4 @@
   <img alt="img" src="images/IMG_3898.jpeg"><br>
 
   <img alt="img" src="images/BHA0414-103.jpg"><br>
-  ↑It's so good in a gin cocktail!
+  ↑By the way, It's so good in a gin cocktail!
