@@ -5,4 +5,4 @@
 ####  [2. Visiting Miraikan to see "Microbes actually are all around"](2/2.md)
 
 
-<img alt="img" src="images/BHA0414-1.jpg">
+<img width="60%" alt="img" src="images/IMG_4004.jpeg">
