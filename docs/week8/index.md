@@ -2,7 +2,7 @@
 
 ####  [1. Maiking artificial Ikura](1/1.md)
 
-####  [2. Visiting Miraikan to see "Microbes actually are all around"](../extra1/0414/index.md)
+####  [2. Visiting Miraikan to see "Microbes actually are all around"](2/2.md)
 
 
 <img alt="img" src="images/BHA0414-1.jpg">
