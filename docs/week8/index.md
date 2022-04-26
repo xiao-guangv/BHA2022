@@ -4,9 +4,9 @@
 
 ####  [2. Visiting Miraikan to see "Microbes actually are all around"](2/2.md)
 
-####  [3. Visiting Miraikan to see "Microbes actually are all around"](3/3.md)
+####  [3. Cultivating slime mold"](3/3.md)
 
-####  [4. Visiting Miraikan to see "Microbes actually are all around"](4/4.md)
+####  [4. Visiting "Hakko Department"](4/4.md)
 
 
 <img width="60%" alt="img" src="images/IMG_4004.jpeg">
