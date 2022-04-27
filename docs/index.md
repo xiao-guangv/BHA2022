@@ -13,3 +13,5 @@
 
 - [extra1: SCOBY @lab](extra1/index.md)
 - [extra2: SCOBY @home](extra2/index.md)
+
+- [Growth records of slime mold](slime/index.md)
