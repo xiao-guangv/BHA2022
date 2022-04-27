@@ -12,13 +12,13 @@
  <img width="70%" alt="img" src="images/IMG_4157.jpeg">
  <img width="70%" alt="img" src="images/IMG_4158.jpeg">
 
- 
+ It seems like that slime mold like LB medium, because the movement appears to be slower in the case of LB.
 
  <img width="70%" alt="img" src="images/IMG_4153.jpeg">
  <img width="70%" alt="img" src="images/IMG_4154.jpeg">
 
  Their footprints are so beautiful.
- 
+
  <img width="70%" alt="img" src="images/IMG_4155.jpeg"><br>
  ↑They found the first oatmeal:)<br>
 
