@@ -1,6 +1,6 @@
 ## Slime Mold
 
-- [pattern1](1/index.md)
+- [pattern1: pentagon](1/index.md)
 
 - [pattern2](2/index.md)
 
