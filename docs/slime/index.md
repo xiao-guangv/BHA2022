@@ -12,4 +12,6 @@
 
 - [pattern6](6/index.md)
 
+- [pattern7](7/index.md)
+
 <img alt="img" src="images/1.jpeg">
