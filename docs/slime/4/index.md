@@ -1,6 +1,6 @@
 ###  pattern4<br>
 
-- 26th April<br>
+- **26th April**<br>
   * My sketch<br>
   <img width="70%" alt="img" src="images/IMG_4251.jpeg">
   * My prediction<br>
@@ -8,4 +8,7 @@
   * How I put them down<br>
   <img width="70%" alt="img" src="images/IMG_4169.jpeg">
 
-- 27th April<br>
+- **27th April**<br>
+
+
+- **28th April**<br>
