@@ -1,4 +1,4 @@
-###  pattern7: DDouble hexagon<br>
+###  pattern7: Double hexagon<br>
 
 - **27th April**<br>
   * My sketch<br>
