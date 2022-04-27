@@ -1,9 +1,11 @@
-##  pattern4<br>
+###  pattern4<br>
 
 - 26th April<br>
-* My sketch
-<img width="70%" alt="img" src="images/IMG_4251.jpeg">
-* My prediction
-<img width="70%" alt="img" src="images/IMG_4252.jpeg">
-* How I put them down
-<img width="70%" alt="img" src="images/IMG_4169.jpeg">
+  * My sketch<br>
+  <img width="70%" alt="img" src="images/IMG_4251.jpeg">
+  * My prediction<br>
+  <img width="70%" alt="img" src="images/IMG_4252.jpeg">
+  * How I put them down<br>
+  <img width="70%" alt="img" src="images/IMG_4169.jpeg">
+
+- 27th April<br>
