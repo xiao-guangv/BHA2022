@@ -1,4 +1,4 @@
-###  pattern1<br>
+###  pattern1: pentagon<br>
 
 - 21th April<br>
 <img width="70%" alt="img" src="images/IMG_4075.jpeg">
