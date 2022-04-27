@@ -1,4 +1,4 @@
-### 27th April, Wed#
+### 27th April, Wed
 
   The escaped slime molds are dry and brown. They seem to have died.<br>
 
