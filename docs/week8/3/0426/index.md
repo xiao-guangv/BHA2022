@@ -12,11 +12,11 @@
   **We made different patterns and transplanted them!**
   <img width="60%" alt="img" src="images/3.jpeg">
 
-  - My sketch
+  - My sketch<br>
   <img width="70%" alt="img" src="images/7.jpeg">
-  - My prediction
+  - My prediction<br>
   <img width="70%" alt="img" src="images/7.jpeg">
-  - What I put them down
+  - What I put them down<br>
   <img width="70%" alt="img" src="images/5.jpeg">
   <img width="70%" alt="img" src="images/8.jpeg">
 
