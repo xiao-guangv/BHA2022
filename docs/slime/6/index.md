@@ -1,4 +1,4 @@
-###  pattern6<br>
+###  pattern6: Colored slime mold<br>
 
 The slime mold itself was colored red and blue.<br>
 When they mingle, will they separate as separate individuals, still blue and red respectively? Or will they merge into the same individual?<br>
@@ -13,6 +13,7 @@ When they mingle, will they separate as separate individuals, still blue and red
   <img width="70%" alt="img" src="images/IMG_4246.jpeg">
 
 - **27th April**<br>
-
+Not sure how it will turn out yet. And despite the Bactu Agar it appears to be slow growing.<br>
+<img width="70%" alt="img" src="images/IMG_4273.jpeg">
 
 - **28th April**<br>
