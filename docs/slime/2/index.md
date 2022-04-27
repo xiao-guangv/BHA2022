@@ -1,4 +1,4 @@
-###  pattern2: the five feeds, in what order will they find?<br>
+###  pattern2: The five feeds, in what order will they find?<br>
 
 - **21th April**<br>
 <img width="70%" alt="img" src="images/IMG_4078.jpeg">
