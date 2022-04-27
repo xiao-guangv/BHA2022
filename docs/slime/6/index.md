@@ -6,8 +6,8 @@ When they mingle, will they separate as separate individuals, still blue and red
 
 - 26th April<br>
 * My sketch
-<img width="70%" alt="img" src="images/IMG_4253.jpeg">
+<img width="70%" alt="img" src="images/IMG_4255.jpeg">
 * My prediction
-<img width="70%" alt="img" src="images/IMG_4254.jpeg">
+<img width="70%" alt="img" src="images/IMG_4256.jpeg">
 * How I put them down
 <img width="70%" alt="img" src="images/IMG_4246.jpeg">
