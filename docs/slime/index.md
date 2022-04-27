@@ -1,11 +1,13 @@
-##  pattern1<br>
+## Slime Mold
 
-- 21th April
-<img width="70%" alt="img" src="images/IMG_4075.jpeg">
+- [pattern1](1/index.md)
 
-- 25th April
-<img width="70%" alt="img" src="images/1.jpeg">
+- [pattern2](2/index.md)
 
-- 26th April
-<img width="70%" alt="img" src="images/4.jpeg">
-<img width="70%" alt="img" src="images/9.jpeg">
+- [pattern3](3/index.md)
+
+- [pattern4](4/index.md)
+
+- [pattern5](5/index.md)
+
+- [pattern6](6/index.md)
