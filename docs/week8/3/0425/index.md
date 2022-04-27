@@ -12,13 +12,16 @@
  <img width="70%" alt="img" src="images/IMG_4157.jpeg">
  <img width="70%" alt="img" src="images/IMG_4158.jpeg">
 
- Their footprints are so beautiful.
+ 
 
  <img width="70%" alt="img" src="images/IMG_4153.jpeg">
  <img width="70%" alt="img" src="images/IMG_4154.jpeg">
+
+ Their footprints are so beautiful.
+ 
  <img width="70%" alt="img" src="images/IMG_4155.jpeg"><br>
  ↑They found the first oatmeal:)<br>
- 
+
  <img width="70%" alt="img" src="images/1.jpeg">
 
 
