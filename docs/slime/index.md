@@ -12,6 +12,8 @@
 
 - [pattern6: Colored slime mold](6/index.md)
 
-- [pattern7: ](7/index.md)
+- [pattern7: Double hexagon](7/index.md)
+
+- [pattern8: Shape of a fan](8/index.md)
 
 <img alt="img" src="images/2.jpeg">
