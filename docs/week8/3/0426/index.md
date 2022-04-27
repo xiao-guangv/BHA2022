@@ -10,11 +10,14 @@
   <img width="60%" alt="img" src="images/7.jpeg">
 
   **We made different patterns and transplanted them!**
+  <img width="60%" alt="img" src="images/3.jpeg">
+
   - My sketch
-  <img width="60%" alt="img" src="images/7.jpeg">
+  <img width="70%" alt="img" src="images/7.jpeg">
   - My prediction
-  <img width="60%" alt="img" src="images/7.jpeg">
+  <img width="70%" alt="img" src="images/7.jpeg">
   - What I put them down
-   <img width="60%" alt="img" src="images/7.jpeg">
+  <img width="70%" alt="img" src="images/5.jpeg">
+  <img width="70%" alt="img" src="images/8.jpeg">
 
 
