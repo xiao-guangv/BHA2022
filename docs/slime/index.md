@@ -4,7 +4,7 @@
 
 - [pattern2: the five feeds, in what order will they find?](2/index.md)
 
-- [pattern3](3/index.md)
+- [pattern3: Race between two](3/index.md)
 
 - [pattern4](4/index.md)
 
