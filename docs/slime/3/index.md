@@ -1,4 +1,4 @@
-###  pattern3<br>
+###  pattern3: Race between two<br>
 
 - 26th April<br>
   - My sketch<br>
