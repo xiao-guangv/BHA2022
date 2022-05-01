@@ -9,3 +9,6 @@
   <img width="70%" alt="img" src="images/IMG_4286.jpeg">
 
 - **28th April**<br>
+  It grew so much in one day.<br>
+  They seem to have gone straight to the left, circled around and came back to the first point.
+  <img width="70%" alt="img" src="images/13.jpeg">
