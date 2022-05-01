@@ -18,3 +18,8 @@ They have escaped out of the petri dish.<br>
 <img width="70%" alt="img" src="images/IMG_4275.jpeg">
 
 - **28th April**<br>
+The escaped slime mold was transplanted into another petri dish. I chose a petri dish of NA agar, filled with black ink.
+<img width="70%" alt="img" src="images/10.jpeg">
+<img width="70%" alt="img" src="images/11.jpeg">
+
+→go to ["patter9"](../9/index.md)
