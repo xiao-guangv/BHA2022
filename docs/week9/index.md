@@ -1,4 +1,4 @@
-## week9: Personal Project (2022/4/25~5/1))
+## week9: Personal Project (2022/4/25~5/1)
 
 ####  [1. Learning more about 3D printing (teaching by Tsuchiya-san)](1/1.md)
 
