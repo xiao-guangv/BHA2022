@@ -17,3 +17,15 @@ Not sure how it will turn out yet. And despite the Bactu Agar it appears to be s
 <img width="70%" alt="img" src="images/IMG_4273.jpeg">
 
 - **28th April**<br>
+Even when they grow up, their bodies are dyed red and blue.<br>
+The red one reached the two feeders first.<br>
+<img width="70%" alt="img" src="images/0428-1.jpeg">
+<img width="70%" alt="img" src="images/0428-2.jpeg">
+
+- **30th April**<br>
+The whole area is turning blue. Have blue and red merged?<br>
+The blue one broke out of the tape and escaped.<br>
+<img width="70%" alt="img" src="images/0430-1.jpeg">
+<img width="70%" alt="img" src="images/0430-2.jpeg">
+
+- **2th May**<br>
