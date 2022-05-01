@@ -29,4 +29,11 @@ They seem to have gobbled up 4/5 of the feeds. They appear to be looking for oth
   Somehow, Gelrite has melted away. Is it because of their eating?<br>
   <img width="70%" alt="img" src="images/0428.gif">
 
+- **30th April**<br>
+They found the last feed and gobbled up all.<br>
+Despite having taped it up, they peeled off the tape and escaped.<br>
+<img width="70%" alt="img" src="images/0430-1.jpeg">
+<img width="70%" alt="img" src="images/0430-2.jpeg">
+<img width="70%" alt="img" src="images/0430-3.jpeg">
+
 - **2th May**<br>
