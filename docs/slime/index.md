@@ -18,4 +18,6 @@
 
 - [pattern8: Shape of a fan](8/index.md)
 
+- [pattern9: Hexagon in black](9/index.md)
+
 <img alt="img" src="images/2.jpeg">
