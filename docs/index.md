@@ -9,7 +9,8 @@
 - [Week7 (2022/4/11~4/17): CRISPER Week](week7/week7.md)
 - [Week8 (2022/4/18~4/24): Personal Project](week8/index.md)
 - [Week9 (2022/4/25~5/1): Personal Project](week9/index.md)
-- Week10 (2022/5/2~5/11): Presentations
+- [Week10 (2022/5/2~5/11): Presentations](week10/index.md)
+- Presentation Day
 
 - [extra1: SCOBY @lab](extra1/index.md)
 - [extra2: SCOBY @home](extra2/index.md)
