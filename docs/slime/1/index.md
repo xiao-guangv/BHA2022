@@ -22,4 +22,4 @@ The escaped slime mold was transplanted into another petri dish. I chose a petri
 <img width="70%" alt="img" src="images/10.jpeg">
 <img width="70%" alt="img" src="images/11.jpeg">
 
-→go to ["patter9"](../9/index.md)
+→Go to ["pattern9"](../9/index.md)
