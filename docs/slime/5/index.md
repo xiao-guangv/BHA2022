@@ -17,3 +17,10 @@ The color of the slime mold remained yellow and did not change after eating colo
 <img width="70%" alt="img" src="images/IMG_4272.jpeg">
 
 - **28th April**<br>
+They reached red, then blue, and now they are trying to get back to where they started.<br>
+The tips have turned a little blue, is it because they have eaten food? Is it because the medium has turned blue?<br>
+<img width="70%" alt="img" src="images/0428.jpeg">
+
+- **30th April**<br>
+They are spreading their bodies further apart and exploring for food.<br>
+<img width="70%" alt="img" src="images/0430.jpeg">
