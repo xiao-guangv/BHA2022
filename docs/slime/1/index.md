@@ -4,6 +4,7 @@
 <img width="70%" alt="img" src="images/IMG_4075.jpeg">
 
 - **25th April**<br>
+They have found all their food in four days and will soon make a round.<br>
 <img width="70%" alt="img" src="images/1.jpeg">
 
 - **26th April**<br>
