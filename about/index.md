@@ -4,7 +4,7 @@ Hi, I'm Misa Haneda based in Tokyo.
 
 I'm interested in exploring the range of possibilities of how human can be.
 
-So recently I like to learn about human history (I’m a big fan of [COTEN radio](https://open.spotify.com/show/3qiAapMhh8UgWVfDWTSq2f?si=1a8be6a209424bd9) that podcast on Spotify) and read science fiction novel (I like [“The left hand of darkness”](https://www.amazon.co.jp/Left-Hand-Darkness-Remembering-Tomorrow/dp/0441478123) written by Ursula K Le Guin) to know how human are in different environments than we do now.
+I like to learn about human history (I’m a big fan of [COTEN radio](https://open.spotify.com/show/3qiAapMhh8UgWVfDWTSq2f?si=1a8be6a209424bd9) that podcast on Spotify) and read science fiction novel (I like [“The left hand of darkness”](https://www.amazon.co.jp/Left-Hand-Darkness-Remembering-Tomorrow/dp/0441478123) written by Ursula K Le Guin) to know how human are in different environments than we do now.
 
 I have also recently begun to create my own artwork (I like using TouchDesigner).
 
