@@ -9,4 +9,5 @@
 
 <img alt="img" src="images/IMG_4669.jpg">
 
-[<img alt="img" width = "50" src="images/twitter.png">](https://twitter.com/misahane_)
+
+[<img alt="img" width = "20" src="images/twitter.png">](https://twitter.com/misahane_)
