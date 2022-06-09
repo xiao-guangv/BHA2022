@@ -20,12 +20,11 @@ I added sumi ink before autoclaving.<br>
 墨汁はオートクレイブ前に入れておく。<br>
 
 <img width="80%" alt="img" src="images/IMG_4229.jpeg"><br>
-<img width="80%" alt="img" src="images/IMG_4230.jpeg"><br>
+<img width="60%" alt="img" src="images/IMG_4230.jpeg"><br>
 <img width="80%" alt="img" src="images/IMG_4231.jpeg"><br>
 
 
 After making four types, put the bottles into autoclave.<br>
-
 ４種類作ったら、オートクレイブへ。<br>
 
 <img width="80%" alt="img" src="images/IMG_4233.jpeg"><br>
@@ -37,8 +36,8 @@ petri dishに注ごうとしたところ、液体が即刻固まり始めてし�
 インクの濃度に関係なく、培地がムラになってしまった。><br>
 墨汁には、レジンの成分が入っている。レジンのせいだろうか・・？><br>
 
-<img width="80%" alt="img" src="images/IMG_4257.jpeg"><br>
-<img width="80%" alt="img" src="images/IMG_4266.jpeg"><br>
+<img width="60%" alt="img" src="images/IMG_4257.jpeg"><br>
+<img width="60%" alt="img" src="images/IMG_4266.jpeg"><br>
 <img width="80%" alt="img" src="images/IMG_4288.jpeg"><br>
 <img width="80%" alt="img" src="images/IMG_4339.jpeg"><br>
 <img width="80%" alt="img" src="images/IMG_4340.jpeg"><br>
