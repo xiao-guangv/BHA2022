@@ -34,7 +34,7 @@ Regardless of the ink density, the medium became uneven. The ink has a resin com
 
 petri dishに注ごうとしたところ、液体が即刻固まり始めてしまった。<br>
 インクの濃度に関係なく、培地がムラになってしまった。<br>
-墨汁には、レジンの成分が入っている。レジンのせいだろうか・・？><br>
+墨汁には、レジンの成分が入っている。レジンのせいだろうか・・？<br>
 
 <img width="60%" alt="img" src="images/IMG_4257.jpeg"><br>
 <img width="60%" alt="img" src="images/IMG_4266.jpeg"><br>
