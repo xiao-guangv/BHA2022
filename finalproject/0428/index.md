@@ -3,7 +3,7 @@
 Let's culture E.coli!<br>
 大腸菌を培養してみよう！
 
-(1) First, warm the incubator to 30°C.<br>
+**(1) First, warm the incubator to 30°C.<br>**
 ※If the temperature is too high, unidentified bacteria other than E. coli may be generated, so keep the temperature at about 30°C.<br>
 
 まず、インキュベーターを30度に温めておく。<br>
@@ -11,7 +11,7 @@ Let's culture E.coli!<br>
 
 <img width="80%" alt="img" src="images/IMG_4303.jpeg"><br>
 
-(2)Then, prepare sterile water.<br>
+**(2)Then, prepare sterile water.<br>**
 Don't bother with autoclave, you can do it in the microwave.<br>
 Fill a glass jar with water, loosen the lid, and heat it in the microwave for 2 minutes. At the end, you will hear a pshooing sound and the lid will rattle.<br>
 Be careful, it's hot!<br>
@@ -24,7 +24,7 @@ Be careful, it's hot!<br>
 <img width="80%" alt="img" src="images/IMG_4305.jpeg"><br>
 <img width="60%" alt="img" src="images/IMG_4306.jpeg"><br>
 
-(3)E. coli to the medium!<br>
+**(3)E. coli to the medium!<br>**
 First, revive the E. coli.<br>
 Add 100 microliters of DW to the freeze-dried E. coli and shaker for 1 minute.<br>
 
