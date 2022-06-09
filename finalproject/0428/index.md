@@ -22,7 +22,7 @@ Be careful, it's hot!<br>
 熱いので注意！<br>
 
 <img width="80%" alt="img" src="images/IMG_4305.jpeg"><br>
-<img width="80%" alt="img" src="images/IMG_4306.jpeg"><br>
+<img width="60%" alt="img" src="images/IMG_4306.jpeg"><br>
 
 (3)E. coli to the medium!<br>
 First, revive the E. coli.<br>
@@ -61,7 +61,8 @@ Put a few drops into the medium with a pipette, and then spread it by turning th
 <img width="80%" alt="img" src="images/IMG_4338.jpeg"><br>
 
 
-**30th April, Sat**
+### 30th April, Sat
+
 It has grown up a little.<br>
 少し育ってきた。
 
