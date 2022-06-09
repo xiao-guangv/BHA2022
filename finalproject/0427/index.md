@@ -32,8 +32,8 @@ After making four types, put the bottles into autoclave.<br>
 When I tried to pour the liquid into each petri dish, the liquid began to solidify immediately.<br>
 Regardless of the ink density, the medium became uneven. The ink has a resin component. Is it because of the resin...?<br>
 
-petri dishに注ごうとしたところ、液体が即刻固まり始めてしまった。><br>
-インクの濃度に関係なく、培地がムラになってしまった。><br>
+petri dishに注ごうとしたところ、液体が即刻固まり始めてしまった。<br>
+インクの濃度に関係なく、培地がムラになってしまった。<br>
 墨汁には、レジンの成分が入っている。レジンのせいだろうか・・？><br>
 
 <img width="60%" alt="img" src="images/IMG_4257.jpeg"><br>
