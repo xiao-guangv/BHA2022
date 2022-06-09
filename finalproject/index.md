@@ -1,4 +1,4 @@
-## final project
+## final project : 菌卜 divination by your own microbe
 
 - [13th, March : Ideas I'm thinking about...](0313/index.md)
 - [4th, April : Visiting Metaphorest](../docs/week6/1/d/index.md)
