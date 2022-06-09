@@ -1,4 +1,5 @@
-## final project : 菌卜 divination by your own microbe
+## final project
+**菌卜 divination by your own microbe**
 
 [previous exploration](previous/index.md)
 
