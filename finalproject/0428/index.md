@@ -61,3 +61,11 @@ Put a few drops into the medium with a pipette, and then spread it by turning th
 <img width="80%" alt="img" src="images/IMG_4338.jpeg"><br>
 
 
+**30th April, Sat**
+It has grown up a little.<br>
+少し育ってきた。
+
+<img width="80%" alt="img" src="images/IMG_4430.jpeg"><br>
+<img width="80%" alt="img" src="images/IMG_4436.jpeg"><br>
+<img width="80%" alt="img" src="images/IMG_4439.jpeg"><br>
+<img width="80%" alt="img" src="images/IMG_4432.jpeg">
