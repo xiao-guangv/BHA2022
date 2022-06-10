@@ -1,6 +1,6 @@
-### BoM
+### Bill of Materials
 
-① List for the work　作品の部品リスト<br>
+**① List for the work　作品の部品リスト<br>**
 If the number of questions is one and the answer choices are three.<br>
 質問の数が１つ、回答の選択肢が３つだった場合。
 
@@ -19,7 +19,7 @@ If the number of questions is one and the answer choices are three.<br>
 |11|2|ＵＳＢケーブル　ＵＳＢ２．０　Ａオス－Ｂオス|[Akizuki](https://akizukidenshi.com/catalog/g/gC-07605/)|¥130|ArduinoUNO用。|
 |12|1|Seedling heat mat|[amazon](https://www.amazon.co.jp/-/en/gp/product/B08G4QN3VM/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)|¥2380|インキュベーター代わり|
 
-② List for exhibition　展示の部材リスト<br>
+**② List for exhibition　展示の部材リスト<br>**
 
 |No|個数|品|購入できる場所|価格|参考|
 | ------------: | ------------: | :------------ | :------------ | ------------: | :------------ |
