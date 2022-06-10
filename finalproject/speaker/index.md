@@ -10,3 +10,4 @@ Arduinoと、DFPlayerを使うことにする。
 
 Arduinoに、DFPlayerのライブラリをインポートする。
 [DFPlayer library](https://github.com/DFRobot/DFRobotDFPlayerMini)
+<img width="80%" alt="img" src="images/01.png"><br>
