@@ -57,4 +57,5 @@ This method also worked well. Even the ink was added after autoclave, no contami
 <img width="70%" alt="img" src="images/IMG_4536.jpeg"><br>
 
 <img width="80%" alt="img" src="images/IMG_4900.jpeg"><br>
-↑これはこれで綺麗だけど、一体なんなんだろう・・？
+↑This is beautiful, but what the hell...?<br>
+これはこれで綺麗だけど、一体なんなんだろう・・？
