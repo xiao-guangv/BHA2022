@@ -24,7 +24,7 @@ Last time I put sumi ink before autoclave and it didn't work, so this time I wil
 活性炭パウダーをオートクレイブ前に入れる。(0.5g)
 
 I think this is the best way to do it, because it came out nice and even!<br>
-ムラなく綺麗にできたので、これが一番良い方法だと思う！
+ムラなく綺麗にできたので、これが一番良い方法だと思う！<br>
 <img width="70%" alt="img" src="images/IMG_4539.jpeg"><br>
 <img width="70%" alt="img" src="images/IMG_4540.jpeg"><br>
 
@@ -32,9 +32,9 @@ I think this is the best way to do it, because it came out nice and even!<br>
 活性炭パウダーをオートクレイブ前に入れる。(1.0g)
 
 Some of them were nicely done, but I think powder volume was too much, so some of them were not even.<br>
-綺麗にできたのもあるけど、パウダーが多すぎて一部村になってしまった。
-<img width="70%" alt="img" src="images/IMG_4537.jpeg"><br>
-<img width="70%" alt="img" src="images/IMG_4538.jpeg"><br>
+綺麗にできたのもあるけど、パウダーが多すぎて一部村になってしまった。<br>
+<img width="60%" alt="img" src="images/IMG_4537.jpeg"><br>
+<img width="60%" alt="img" src="images/IMG_4538.jpeg"><br>
 
 <img width="80%" alt="img" src="images/DSC_8366.jpeg"><br>
 ↑some of them were not even like this.
@@ -43,17 +43,17 @@ Some of them were nicely done, but I think powder volume was too much, so some o
 墨汁をオートクレイブ後に入れる。(濃度1% : 100ml溶液に対して１ml)
 
 This method also worked well. Even the ink was added after autoclave, no contamination occurred.<br>
-この方法もうまくいった。墨汁はオートクレイブ後に入れても、特にコンタミは起きなかった。
-<img width="70%" alt="img" src="images/IMG_4541.jpeg"><br>
-<img width="70%" alt="img" src="images/IMG_4542.jpeg"><br>
+この方法もうまくいった。墨汁はオートクレイブ後に入れても、特にコンタミは起きなかった。<br>
+<img width="60%" alt="img" src="images/IMG_4541.jpeg"><br>
+<img width="60%" alt="img" src="images/IMG_4542.jpeg"><br>
 
 **(4) Add activated carbon powder after autoclave (0.5g) (0.5g)<br>**
 活性炭パウダーをオートクレイブ後に入れる。(0.5g)
 
 この方法もうまくいったかのように見えた。でも、しばらく経つと別の微生物が発生してしまった。<br>
-活性炭パウダーはオートクレイブ”前”に入れないとダメ、ということがわかった。
-<img width="70%" alt="img" src="images/IMG_4535.jpeg"><br>
-<img width="70%" alt="img" src="images/IMG_4536.jpeg"><br>
+活性炭パウダーはオートクレイブ”前”に入れないとダメ、ということがわかった。<br>
+<img width="60%" alt="img" src="images/IMG_4535.jpeg"><br>
+<img width="60%" alt="img" src="images/IMG_4536.jpeg"><br>
 
 <img width="80%" alt="img" src="images/IMG_4900.jpeg"><br>
 ↑This is beautiful, but what the hell...?<br>
