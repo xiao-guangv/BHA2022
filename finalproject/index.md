@@ -8,5 +8,9 @@ I decided that my final project would be about communicating with E.coli!
 - [2th, May : Making black medium part.2](0502/index.md)
 - [12th, May : Culturing E.coli for my priject](0512/index.md)
 
+- [4th & 5th, June : Talk & ehxibition day!](0604/index.md)
+
+
+[→My final presentation slides](https://docs.google.com/presentation/d/126RJC8qZFrV-dR9doajKyNnkbdTmzBI5QYv4yGhiFTE/edit?usp=sharing)
 
 <img alt="img" src="images/IMG_4673.jpeg">
