@@ -25,8 +25,8 @@ Last time I put sumi ink before autoclave and it didn't work, so this time I wil
 
 I think this is the best way to do it, because it came out nice and even!<br>
 ムラなく綺麗にできたので、これが一番良い方法だと思う！<br>
-<img width="70%" alt="img" src="images/IMG_4539.jpeg"><br>
-<img width="70%" alt="img" src="images/IMG_4540.jpeg"><br>
+<img width="60%" alt="img" src="images/IMG_4539.jpeg"><br>
+<img width="60%" alt="img" src="images/IMG_4540.jpeg"><br>
 
 **(2) Add activated carbon powder before autoclave (1.0g) <br>**
 活性炭パウダーをオートクレイブ前に入れる。(1.0g)
