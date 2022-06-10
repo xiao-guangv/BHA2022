@@ -64,7 +64,7 @@ Put a few drops into the medium with a pipette, and then spread it by turning th
 ### 30th April, Sat
 
 It has grown up a little.<br>
-少し育ってきた。
+少し育ってきた。<br>
 <img width="60%" alt="img" src="images/IMG_4430.jpeg"><br>
 <img width="60%" alt="img" src="images/IMG_4436.jpeg"><br>
 <img width="60%" alt="img" src="images/IMG_4439.jpeg"><br>
