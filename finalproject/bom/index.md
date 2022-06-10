@@ -1,6 +1,6 @@
 ### BoM
 
-① List for separate speakers　スピーカーの部品リスト<br>
+① List for the work　作品の部品リスト<br>
 If the number of questions is one and the answer choices are three.<br>
 質問の数が１つ、回答の選択肢が３つだった場合。
 
@@ -17,6 +17,7 @@ If the number of questions is one and the answer choices are three.<br>
 |9|1|カーボン抵抗１／４Ｗ１ｋΩ（１００本入）|[Akizuki](https://akizukidenshi.com/catalog/g/gR-25102/)|¥100||
 |10|1|スイッチングＡＣアダプター（ＵＳＢ　ＡＣアダプター）Ｔｙｐｅ－Ａメス|[Akizuki](https://akizukidenshi.com/catalog/g/gM-13658/)|¥580||
 |11|2|ＵＳＢケーブル　ＵＳＢ２．０　Ａオス－Ｂオス|[Akizuki](https://akizukidenshi.com/catalog/g/gC-07605/)|¥130|ArduinoUNO用。|
+|12|1|Seedling heat mat|[amazon](https://www.amazon.co.jp/-/en/gp/product/B08G4QN3VM/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)|¥2380|インキュベーター代わり|
 
 ② List for exhibition　展示の部材リスト<br>
 
