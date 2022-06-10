@@ -15,5 +15,6 @@ I decided that my final project would be about communicating with E.coli!
 
 
 [→My final presentation slides](https://docs.google.com/presentation/d/126RJC8qZFrV-dR9doajKyNnkbdTmzBI5QYv4yGhiFTE/edit?usp=sharing)
+[→Bills of Materials](bom/index.md)
 
 <img alt="img" src="images/IMG_4673.jpeg">
