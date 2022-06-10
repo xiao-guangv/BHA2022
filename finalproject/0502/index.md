@@ -1,4 +1,5 @@
 ### 2th May, Mon
+#### Making black medium part.2
 
 Last time I put sumi ink before autoclave and it didn't work, so this time I will try another 4 methods.
 1. Add activated carbon powder before autoclave. (0.5g)
@@ -50,6 +51,8 @@ This method also worked well. Even the ink was added after autoclave, no contami
 **(4) Add activated carbon powder after autoclave (0.5g) (0.5g)<br>**
 活性炭パウダーをオートクレイブ後に入れる。(0.5g)
 
+This method also seemed to work. But after a while, another microbial outbreak occurred.<br>
+I found out that activated carbon powder must be put in "before" autoclaving.<br>
 この方法もうまくいったかのように見えた。でも、しばらく経つと別の微生物が発生してしまった。<br>
 活性炭パウダーはオートクレイブ”前”に入れないとダメ、ということがわかった。<br>
 <img width="60%" alt="img" src="images/IMG_4535.jpeg"><br>
