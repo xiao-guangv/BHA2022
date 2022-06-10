@@ -27,7 +27,7 @@ download ZIPしたら、ZIPを解凍する。<br>
 
 My first shopping at Akizuki @ Akihabara!<br>
 秋月電子で初めての買い物！<br>
-<img width="60%" alt="img" src="images/IMG_4668.jpeg"><br>
+<img width="50%" alt="img" src="images/IMG_4668.jpeg"><br>
 
 Finally, this is how it came to be.<br>
 こういうシステムが完成した。<br>
