@@ -32,7 +32,7 @@ I think this is the best way to do it, because it came out nice and even!<br>
 活性炭パウダーをオートクレイブ前に入れる。(1.0g)
 
 Some of them were nicely done, but I think powder volume was too much, so some of them were not even.<br>
-綺麗にできたのもあるけど、パウダーが多すぎて一部村になってしまった。<br>
+綺麗にできたのもあるけど、パウダーが多すぎて一部ムラになってしまった。<br>
 <img width="60%" alt="img" src="images/IMG_4537.jpeg"><br>
 <img width="60%" alt="img" src="images/IMG_4538.jpeg"><br>
 
@@ -55,6 +55,6 @@ This method also worked well. Even the ink was added after autoclave, no contami
 <img width="60%" alt="img" src="images/IMG_4535.jpeg"><br>
 <img width="60%" alt="img" src="images/IMG_4536.jpeg"><br>
 
-<img width="80%" alt="img" src="images/IMG_4900.jpeg"><br>
+<img width="90%" alt="img" src="images/IMG_4900.jpeg"><br>
 ↑This is beautiful, but what the hell...?<br>
 これはこれで綺麗だけど、一体なんなんだろう・・？
