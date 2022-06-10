@@ -19,9 +19,8 @@ Last time I put sumi ink before autoclave and it didn't work, so this time I wil
 <img width="80%" alt="img" src="images/IMG_4464.jpeg"><br>
 <img width="80%" alt="img" src="images/IMG_4477.jpeg"><br>
 
-**Result**
-結果
-1. Add activated carbon powder before autoclave. (0.5g)<br>
+#### Result 結果
+**(1) Add activated carbon powder before autoclave. (0.5g)<br>**
 活性炭パウダーをオートクレイブ前に入れる。(0.5g)
 
 I think this is the best way to do it, because it came out nice and even!<br>
@@ -29,7 +28,7 @@ I think this is the best way to do it, because it came out nice and even!<br>
 <img width="70%" alt="img" src="images/IMG_4539.jpeg"><br>
 <img width="70%" alt="img" src="images/IMG_4540.jpeg"><br>
 
-2. Add activated carbon powder before autoclave (1.0g) <br>
+**(2) Add activated carbon powder before autoclave (1.0g) <br>**
 活性炭パウダーをオートクレイブ前に入れる。(1.0g)
 
 Some of them were nicely done, but I think powder volume was too much, so some of them were not even.<br>
@@ -40,7 +39,7 @@ Some of them were nicely done, but I think powder volume was too much, so some o
 <img width="80%" alt="img" src="images/DSC_8366.jpeg"><br>
 ↑some of them were not even like this.
 
-3. Add ink solution after autoclave (1% concentration: 1ml for 100ml solution)<br>
+**(3) Add ink solution after autoclave (1% concentration: 1ml for 100ml solution)<br>**
 墨汁をオートクレイブ後に入れる。(濃度1% : 100ml溶液に対して１ml)
 
 This method also worked well. Even the ink was added after autoclave, no contamination occurred.<br>
@@ -48,7 +47,7 @@ This method also worked well. Even the ink was added after autoclave, no contami
 <img width="70%" alt="img" src="images/IMG_4541.jpeg"><br>
 <img width="70%" alt="img" src="images/IMG_4542.jpeg"><br>
 
-4. Add activated carbon powder after autoclave (0.5g) (0.5g)<br>
+**(4) Add activated carbon powder after autoclave (0.5g) (0.5g)<br>**
 活性炭パウダーをオートクレイブ後に入れる。(0.5g)
 
 この方法もうまくいったかのように見えた。でも、しばらく経つと別の微生物が発生してしまった。<br>
