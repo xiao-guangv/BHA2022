@@ -6,7 +6,7 @@ I decided that my final project would be about communicating with E.coli!
 - [27th, April : Making black medium part.1](0427/index.md)
 - [28th, April : Begining to culture E.coli](0428/index.md)
 - [2th, May : Making black medium part.2](0502/index.md)
-- [12th, May : Culturing E.coli for my priject](0512/index.md)
+- [12th, May : Culturing E.coli for my project](0512/index.md)
 
 - [4th & 5th, June : Talk & ehxibition day!](0604/index.md)
 
