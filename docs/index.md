@@ -10,9 +10,11 @@
 - [Week8 (2022/4/18~4/24): Personal Project](week8/index.md)
 - [Week9 (2022/4/25~5/1): Personal Project](week9/index.md)
 - [Week10 (2022/5/2~5/11): Presentations](week10/index.md)
-- Presentation Day
+- [Last week (2022/6/4~6/5): Talk & Exhibition Day](../finalproject/0604/index.md)
 
 - [extra1: SCOBY @lab](extra1/index.md)
 - [extra2: SCOBY @home](extra2/index.md)
 
 - [extra3: Growth records of slime mold](slime/index.md)
+
+- [extra4: How to make yeastogram T-shirt!](tshirt/index.md)
