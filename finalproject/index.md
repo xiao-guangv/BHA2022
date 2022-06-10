@@ -14,7 +14,7 @@ I decided that my final project would be about communicating with E.coli!
 - [4th & 5th, June : Talk & ehxibition day!](0604/index.md)
 
 
-[→My final presentation slides](https://docs.google.com/presentation/d/126RJC8qZFrV-dR9doajKyNnkbdTmzBI5QYv4yGhiFTE/edit?usp=sharing)
+[→My final presentation slides](https://docs.google.com/presentation/d/126RJC8qZFrV-dR9doajKyNnkbdTmzBI5QYv4yGhiFTE/edit?usp=sharing)<br>
 [→Bills of Materials](bom/index.md)
 
 <img alt="img" src="images/IMG_4673.jpeg">
