@@ -1,7 +1,10 @@
 ## week1: Introduction (2022/2/28~3/6)
-1:Make a public documentation site
+1:Make a public documentation site<br>
+→ here!
 
-2:Make a About Page and introduce yourself
+2:Make a About Page and introduce yourself<br>
+→ This is my "[about](../../about/index.md)" page.<br>
+<img width="60%" alt="img" src="01">
 
 3:Answer the following questions:
 - What is Life? How would you define it, can you actually define it?<br>
