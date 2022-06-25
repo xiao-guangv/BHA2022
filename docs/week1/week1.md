@@ -9,7 +9,7 @@
 3:Answer the following questions:
 - What is Life? How would you define it, can you actually define it?<br>
 →I think the conditions for being life can be listed, but not clearly defined.<br>
-<img width="300" alt="img" src="IMG_2963.jpeg">
+<img width="90%" alt="img" src="IMG_2963.jpeg">
 
 - What is BioHacking? What does it mean for you?<br>
 →Bio Hacking means “do it yourself and think for yourself” for me.<br>
