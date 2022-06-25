@@ -61,3 +61,5 @@ Polymerase Chain Reaction: A means of copying large quantities of DNA.
   <img width="300" alt="img" src="week2_16.jpeg"><br>
 * Done!! It works.<br>
   <img width="300" alt="img" src="week2_17.jpeg"><br>
+
+  [GaudiLabs PocketPCR GitHub](https://github.com/GaudiLabs/PocketPCR)
