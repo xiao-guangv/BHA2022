@@ -4,15 +4,15 @@
 
 **2. Make a About Page and introduce yourself<br>**
 → This is my "[about page](../../about/index.md)".<br>
-<img width="60%" alt="img" src=01.png>
+<img width="50%" alt="img" src=01.png>
 
 **3. Start a final project page<br>**
 → This is my "[final project page](../../finalproject/index.md)".<br>
 
 **4. Attend a bio safety lecture<br>**
 → on 3rd March, we had a lecture from Hosotani-san.<br>
-[文科省_遺伝子組換え実験の規制について](%E9%81%BA%E4%BC%9D%E5%AD%90%E7%B5%84%E6%8F%9B%E3%81%88%E5%AE%9F%E9%A8%93%E3%81%AE%E8%A6%8F%E5%88%B6%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_%E6%96%87%E7%A7%91%E7%9C%81.pdf)<br>
-[渋谷MTRL_バイオラボ講習会](渋谷FabCafe_MTRL_バイオラボ講習会資料20191008.pdf)<br>
+[文科省_遺伝子組換え実験の規制について.pdf](%E9%81%BA%E4%BC%9D%E5%AD%90%E7%B5%84%E6%8F%9B%E3%81%88%E5%AE%9F%E9%A8%93%E3%81%AE%E8%A6%8F%E5%88%B6%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_%E6%96%87%E7%A7%91%E7%9C%81.pdf)<br>
+[渋谷MTRL_バイオラボ講習会.pdf](%E6%B8%8B%E8%B0%B7FabCafe_MTRL_%E3%83%90%E3%82%A4%E3%82%AA%E3%83%A9%E3%83%9C%E8%AC%9B%E7%BF%92%E4%BC%9A%E8%B3%87%E6%96%9920191008.pdf)<br>
 <img width="70%" alt="img" src="02.png"><br>
 <img width="70%" alt="img" src="03.png"><br>
 <img width="70%" alt="img" src="04.png"><br>
