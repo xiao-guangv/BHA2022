@@ -14,7 +14,7 @@
 
 - [Experiment1: Growing SCOBY](experiment1/index.md)
 - [Experimant2: Growing Slime Mold](slime/index.md)
-- [Experimant3: DNA extraction from salva](dna/index.md)
+- [Experimant3: DNA extraction from salva](week9/2/2.md)
 - [Experimant4: PCR & Gelelectrophoresis](pcr/index.md)
 
 - [extra: How to make yeastogram T-shirt!](tshirt/index.md)
