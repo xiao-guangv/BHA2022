@@ -4,4 +4,6 @@
 
 ####  [2. Visiting fabkab @ Kamakura](2/2.md)
 
-####  [3. ???](3/3.md)
+####  [3. Global Presentation on 12th May](3/3.md)
+
+<img width="80%" alt="img" src="01.jpeg">
