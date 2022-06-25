@@ -1,7 +1,7 @@
 ## week2: Deconstructing the Lab (2022/3/7~3/13)
 
 ### (a) I made a [FOLDSCOPE](https://www.foldscope.com/)<br>
-<img width="80%" alt="img" src="IMG_8890.JPG">
+<img width="80%" alt="img" src="IMG_8890.JPG"><br>
 [Manu Prakash](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami?language=ja) developped this microscope made of paper.
 
 * Cutting out parts<br>
@@ -45,7 +45,7 @@ Polymerase Chain Reaction: A means of copying large quantities of DNA.
   At 95 degrees, the DNA chain is separated.
   At 50 degrees, the DNA and primer attach, then the polymerase attaches ATCG and copies the other end.
   This is repeated many many times.<br>
-- The left part: electrophoresis<br>
+  ・The left part: electrophoresis<br>
   DNA is negative.
   When electricity is passed through it, it tries to go to the positive side.
   DNA is injected into agar.
