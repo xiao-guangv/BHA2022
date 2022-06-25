@@ -6,4 +6,6 @@
 
 ####  [3. Make media at home and grow something](3/3.md.md)
 
+####  [extra: Thinking about my final project...](../../finalproject/previous/0313/index.md)
+
 <img width="70%" alt="img" src="images/IMG_3350.jpeg">
