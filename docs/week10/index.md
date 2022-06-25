@@ -2,7 +2,7 @@
 
 ####  [1. PCR and Running gel](1/1.md)
 
-####  [2. Visiting fabkab @ Kamakura](2/2.md)
+####  [2. Visiting fablab @ Kamakura](2/2.md)
 
 ####  [3. Global Presentation on 12th May](3/3.md)
 
