@@ -12,9 +12,9 @@
 - [Week10 (2022/5/2~5/11): Global Presentation](week10/index.md)
 - [Last week (2022/6/4~6/5): Talk & Exhibition Day](../finalproject/0604/index.md)
 
-- [extra1: SCOBY @lab](extra1/index.md)
-- [extra2: SCOBY @home](extra2/index.md)
+- [Experiment1: Growing SCOBY](experiment1/index.md)
+- [Experimant2: Growing Slime Mold](slime/index.md)
+- [Experimant3: DNA extraction from salva](dna/index.md)
+- [Experimant4: PCR & Gelelectrophoresis](pcr/index.md)
 
-- [extra3: Growth records of slime mold](slime/index.md)
-
-- [extra4: How to make yeastogram T-shirt!](tshirt/index.md)
+- [extra: How to make yeastogram T-shirt!](tshirt/index.md)
