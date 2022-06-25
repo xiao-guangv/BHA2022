@@ -4,7 +4,7 @@
 
 **2. Make a About Page and introduce yourself<br>**
 → This is my "[about page](../../about/index.md)".<br>
-<img width="50%" alt="img" src=01.png>
+<img width="50%" alt="img" src="01.png"><br>
 
 **3. Start a final project page<br>**
 → This is my "[final project page](../../finalproject/index.md)".<br>
