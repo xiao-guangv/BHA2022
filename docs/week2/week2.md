@@ -1,6 +1,7 @@
 ## week2: Deconstructing the Lab (2022/3/7~3/13)
 
 ### (a) I made a [FOLDSCOPE](https://www.foldscope.com/)<br>
+<img width="80%" alt="img" src="IMG_8890.JPG">
 [Manu Prakash](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami?language=ja) developped this microscope made of paper.
 
 * Cutting out parts<br>
@@ -37,26 +38,26 @@ Polymerase Chain Reaction: A means of copying large quantities of DNA.
 - Purpose of PCR<br>
  By copying in large quantities, the DNA can be analyzed by electrophoresis. We can investigate what kind of DNA is present.
 - How PCR works<br>
+  <img width="80%" alt="img" src="week2_10.jpeg"><br>
+  ・The right part: heating and cooling<br>
   Repeat cooling (50 degrees) and heating (95 degrees).
   Taq polymerase, primers, a large amount of discrete ATCG, and DNA are placed in the liquid.
   At 95 degrees, the DNA chain is separated.
   At 50 degrees, the DNA and primer attach, then the polymerase attaches ATCG and copies the other end.
-  This is repeated many many times.
-  <img width="250" alt="img" src="week2_12.jpeg">
-- electrophoresis<br>
+  This is repeated many many times.<br>
+- The left part: electrophoresis<br>
   DNA is negative.
   When electricity is passed through it, it tries to go to the positive side.
   DNA is injected into agar.
-  Smaller lengths (fewer bases) move quickly. Move a lot.
- <img width="250" alt="img" src="week2_10.jpeg"><br>
+  Smaller lengths (fewer bases) move quickly. Move a lot.<br>
 
-by the way: PCR machine in the 80's<br>
-<img width="150" alt="img" src="week2_13.jpeg">
-<img width="150" alt="img" src="week2_14.jpeg">
+  by the way: PCR machine in the 80's<br>
+  <img width="150" alt="img" src="week2_13.jpeg"><br>
+  <img width="150" alt="img" src="week2_14.jpeg"><br>
 
 * Assemble the parts<br>
-  <img width="300" alt="img" src="week2_15.jpeg">
+  <img width="300" alt="img" src="week2_15.jpeg"><br>
 * Soldering parts<br>
-  <img width="300" alt="img" src="week2_16.jpeg">
+  <img width="300" alt="img" src="week2_16.jpeg"><br>
 * Done!! It works.<br>
-  <img width="300" alt="img" src="week2_17.jpeg">
+  <img width="300" alt="img" src="week2_17.jpeg"><br>
