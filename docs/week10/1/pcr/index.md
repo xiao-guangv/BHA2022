@@ -14,14 +14,15 @@ This time we used "lactose intolerance" primer.<br>
 ※ミルクに含まれる糖質である乳糖をグルコースとガラクトースに分解する乳糖分解酵素（ラクターゼ: lactase）を作り出す遺伝子をLCTgeneという。このLCT geneの発現をコントロールするのがMCM6 gene。MCM6 geneがTtypeかCtypeかどうか、調べてみよう！<br>
 [→lactose intolerance primer protocol](https://bento.bio/protocol/biotechnology-101/lactose-intolerance/)<br>
 **(3) polymerase<br>**
-- option1. Master Mix from BentoLab<br>
+**Option1. Master Mix from BentoLab<br>**
 This time we used "[5x FIREPol® Master Mix Ready To Load](https://bento.bio/product/firepol-master-mix/)". This contains thermostable Taq DNA polymerase FIREPol®, dNTPs, 7.5 mM MgCl2, and loading dye, in a buffer.<br>
 Taqポリメラーゼ、dNTPs、識別用の色素が含まれている。<br>
-<img width="50%" alt="img" src="images/01.png"><br>
-- option2. [Taq polymerase from BioAcademia](https://www.bioacademia.co.jp/en/html/upload/save_image/E02-102%20Taq%20Premix%20with%20Dyes.pdf)<br>
-This time we also tries to Taq polymerase with dye from BioAcademia instead of master mix from BentoLab.<br>
+<img width="70%" alt="img" src="images/01.png"><br>
+
+**Option2. Taq polymerase from BioAcademia<br>**
+This time we also tries to [Taq polymerase with dye from BioAcademia](E02-102%20Taq%20Premix%20with%20Dyes.pdf).<br>
 マスターミックスの代わりに、BioAcademiaのTaqポリメラーゼも使ってみる。<br>
-<img width="50%" alt="img" src="images/02.png"><br>
+<img width="70%" alt="img" src="images/02.png"><br>
 **(4) distilled water : 1000μリットル<br>**
 <img width="40%" alt="img" src="images/IMG_4492.jpeg"><br>
 
