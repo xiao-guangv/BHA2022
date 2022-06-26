@@ -42,4 +42,17 @@ Add 25μl Taq polymesase, 2μl primer (it's transparent), 4μl DNA template and 
 <img width="50%" alt="img" src="images/IMG_4498.jpeg"><br>
 <img width="50%" alt="img" src="images/IMG_4499.jpeg"><br>
 
-2. 
+**2. It's time to PCR! いざPCR!<br>**
+Place your PCR tube in the thermocycler block.<br>
+PCRチューブを設置。<br>
+<img width="60%" alt="img" src="images/IMG_4500.jpeg"><br>
+
+Set up the thermocycler with the following PCR program:<br>
+下記の写真のようにPCRの温度プログラムを設定して、スタート。<br>
+<img width="60%" alt="img" src="images/IMG_4501.jpeg"><br>
+<img width="50%" alt="img" src="images/IMG_4502.jpeg"><br>
+<img width="50%" alt="img" src="images/IMG_4503.jpeg"><br>
+
+After 97min, It's done! This time keep these tube in the freezer again.<br>
+97分後、完了！今回は再度冷凍庫に保管ておこう。<br>
+<img width="80%" alt="img" src="images/IMG_4513.jpeg">
