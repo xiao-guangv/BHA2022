@@ -2,7 +2,7 @@
 #### Talk & ehxibition day!
 
 How I exhibit my work<br>
-<img width="80%" alt="img" src="images/DSC_8166.jpg"><br>
+<img width="90%" alt="img" src="images/DSC_8166.jpg"><br>
 <img width="80%" alt="img" src="images/20220604_BHA-85.jpg"><br>
 
 Preparing...<br>
