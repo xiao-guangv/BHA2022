@@ -6,7 +6,7 @@
 実験前に流れを把握しておくこと。
 
 **< What we need >**<br>
-**(1) DNA templete 増やしたいgene sequenceが入ったDNAのサンプル<br>**
+**(1) DNA templete<br>**
 We've extracted each DNA from cheek cells and storaged them in the -20℃ freezer.<br>
 **(2) primer<br>**
 This time we used "lactose intolerance" primer.<br>
@@ -26,6 +26,7 @@ This time we also tries to [Taq polymerase with dye from BioAcademia](E02-102%20
 **(4) distilled water : 1000μリットル<br>**
 <img width="40%" alt="img" src="images/IMG_4492.jpeg"><br>
 
+**< How to do PCR >**<br>
 **1. Prepare the contents of the PCR tube PCRチューブの中身を用意する<br>**
 Primer, MasterMix and DNA should be cooled in ice water.<br>
 プライマー、マスターミックス、使用するDNAは氷水で冷やしながらPCR作業を進める。<br>
@@ -37,7 +38,8 @@ This time I used Taq polymerase from BioAcademia.<br>
 <img width="50%" alt="img" src="images/IMG_4495.jpeg"><br>
 
 Add 25μl Taq polymesase, 2μl primer (it's transparent), 4μl DNA template and 19μl DW to PCR tube. It's gonna be 50μl as a total.<br>
-ポリメラーゼ25μl、プライマー2μl、DNA4μl、純水19μlをPCRチューブにピペットで入れる。トータル50μlの溶液になる。<br>
+※The quantities are much smaller than you'd think!<br>
+ポリメラーゼ25μl、プライマー2μl、DNA4μl、純水19μlをPCRチューブにピペットで入れる。トータル50μlの溶液になる。※思ってるより量はめっちゃ少ない！<br>
 <img width="50%" alt="img" src="images/IMG_4494.jpeg"><br>
 <img width="50%" alt="img" src="images/IMG_4498.jpeg"><br>
 <img width="50%" alt="img" src="images/IMG_4499.jpeg"><br>
