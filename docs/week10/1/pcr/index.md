@@ -23,16 +23,22 @@ This time we also tries to Taq polymerase with dye from BioAcademia instead of m
 マスターミックスの代わりに、BioAcademiaのTaqポリメラーゼも使ってみる。<br>
 <img width="50%" alt="img" src="images/02.png"><br>
 **(4) distilled water : 1000μリットル<br>**
+<img width="40%" alt="img" src="images/IMG_4492.jpeg"><br>
 
-<img width="50%" alt="img" src="images/IMG_4484.jpeg"><br>
-
-1. Prepare the contents of the PCR tube PCRチューブの中身を用意する<br>
+**1. Prepare the contents of the PCR tube PCRチューブの中身を用意する<br>**
 Primer, MasterMix and DNA should be cooled in ice water.<br>
 プライマー、マスターミックス、使用するDNAは氷水で冷やしながらPCR作業を進める。<br>
-<img width="70%" alt="img" src="images/IMG_4488.jpeg"><br>
-<img width="70%" alt="img" src="images/IMG_4489.jpeg"><br>
+<img width="50%" alt="img" src="images/IMG_4488.jpeg"><br>
+<img width="50%" alt="img" src="images/IMG_4489.jpeg"><br>
 
 This time I used Taq polymerase from BioAcademia.<br>
 私は今回バイオアカデミアのTaqポリメラーゼを使用した。<br>
 <img width="50%" alt="img" src="images/IMG_4495.jpeg"><br>
 
+Add 25μl Taq polymesase, 2μl primer (it's transparent), 4μl DNA template and 19μl DW to PCR tube. It's gonna be 50μl as a total.<br>
+ポリメラーゼ25μl、プライマー2μl、DNA4μl、純水19μlをPCRチューブにピペットで入れる。トータル50μlの溶液になる。<br>
+<img width="50%" alt="img" src="images/IMG_4494.jpeg"><br>
+<img width="50%" alt="img" src="images/IMG_4498.jpeg"><br>
+<img width="50%" alt="img" src="images/IMG_4499.jpeg"><br>
+
+2. 
