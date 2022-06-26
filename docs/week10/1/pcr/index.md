@@ -55,6 +55,10 @@ Set up the thermocycler with the following PCR program:<br>
 <img width="50%" alt="img" src="images/IMG_4502.jpeg"><br>
 <img width="50%" alt="img" src="images/IMG_4503.jpeg"><br>
 
+The wait time is quite long.<br>
+待ち時間は結構長いね。<br>
+<img width="70%" alt="img" src="images/IMG_4497.jpeg"><br>
+
 After 97min, It's done! This time keep these tubes in the freezer again.
 ※While this pricess, PCR is performed 30-35 cycles. So there gonna be ... about 34,359,740,000 copies. <br>
 97分後、完了！(この間、PCRは30~35サイクル繰り返されて、およそ3400億個のgeneコピーが作り出される事になる！)<br>
