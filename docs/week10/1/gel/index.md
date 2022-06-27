@@ -28,8 +28,8 @@ Because the DNA molecule has a negative charge, due to its chemical structure, w
 **4. Place the gel and pour buffer solution ボックスにジェルと緩衝液を入れる<br>**
 Place the gel so that the wells are toward the negative electrode.<br>
 ゲルの穴が空いている方がマイナス電極の方になるように置く。<br>
-<img width="70%" alt="img" src="images/IMG_4632.jpeg"><br>
-<img width="70%" alt="img" src="images/IMG_4633.jpeg"><br>
+<img width="60%" alt="img" src="images/IMG_4632.jpeg"><br>
+<img width="60%" alt="img" src="images/IMG_4633.jpeg"><br>
 Use prepared 0.5X TBE buffer solution, and pour it over the gel until the gel is fully covered. The buffer should reach about 2-3mm above the gel.<br>
 ゲルの2-3mm上になるまで緩衝液を注ぐ。<br>
 <img width="70%" alt="img" src="images/IMG_4635.jpeg"><br>
@@ -70,6 +70,7 @@ Slide on the lid. Set the voltage to 50V, then set a timer to 40 min, and start 
 After the gel has run, you can pour away the buffer. It’s safe to discard in the sink.<br>
 Place the gel onto the blue transilluminator surface of Bento Lab. (It's ok to plave it directly.)<br>
 終わったら、緩衝液をシンクに捨てて、ジェルをイルミネーターの上におく。<br>
+※Drain disposal of TBE running buffers is a standard waste disposal procedure followed by research labs.<br>
 <img width="50%" alt="img" src="images/IMG_4655.jpeg"><br>
 <img width="50%" alt="img" src="images/IMG_4656.jpeg"><br>
 
