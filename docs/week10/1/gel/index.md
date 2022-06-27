@@ -63,8 +63,8 @@ Also the button on the pipette should not be released to the outside of the hole
 **6. Running the gel 電気泳動<br>**
 Slide on the lid. Set the voltage to 50V, then set a timer to 40 min, and start the run. Then　bubbles will appear around the electrodes, indicating electrolysis.<br>
 蓋を閉めて、電源を入れる。50Vで40分稼働。スタートすると、泡が出てくるのが動いてる証拠。<br>
-<img width="70%" alt="img" src="images/IMG_4648.jpeg"><br>
-<img width="70%" alt="img" src="images/IMG_4653.jpeg"><br>
+<img width="50%" alt="img" src="images/IMG_4648.jpeg"><br>
+<img width="80%" alt="img" src="images/IMG_4653.jpeg"><br>
 
 **7. Result 結果<br>**
 After the gel has run, you can pour away the buffer. It’s safe to discard in the sink.<br>
@@ -74,5 +74,22 @@ Place the gel onto the blue transilluminator surface of Bento Lab. (It's ok to p
 <img width="50%" alt="img" src="images/IMG_4655.jpeg"><br>
 <img width="50%" alt="img" src="images/IMG_4656.jpeg"><br>
 
-This is the reslut we got.<br>
-<img width="60%" alt="img" src="images/IMG_4660.jpeg"><br>
+This is the reslut we got. Mine is the right one.<br>
+これが得られた結果。私のは一番右。<br>
+<img width="80%" alt="img" src="images/IMG_4660.jpeg"><br>
+Your sample should correspond to one of these variations.<br>
+<img width="70%" alt="img" src="images/model_results_lactose_intolerance.jpeg"><br>
+
+1 – Ladder – 100 bp DNA Ladder<br>
+
+2 – Result CT – Control (440 bp), C allele (328 bp), T allele (166 bp)
+This result shows a person with a copy of both the T allele and C allele, so someone who is heterozygous. The ability to digest lactose is dominant, so the person is likely to be able to digest milk as an adult.<br>
+
+3 – TT – Control (440 bp), T allele (166 bp)<br>
+This result shows a person who has both copies of the T allele, so homozygous dominant. This person should be able to digest milk.<br>
+
+4 – CC – Control (440 bp), C allele (328 bp)<br>
+This result shows a person who has both copies of the C allele, so homozygous recessive. This person is likely to be lactose intolerant as an adult.<br>
+
+I can drink milk now, but it seems like I have C allele gene! wow.<br>
+私は今ミルク普通に飲めるけど、乳糖不耐性になる可能性が高い遺伝子みたい。ほんと？！
