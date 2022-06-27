@@ -37,3 +37,7 @@ Use prepared 0.5X TBE buffer solution, and pour it over the gel until the gel is
 <img width="70%" alt="img" src="images/IMG_4637.jpeg"><br>
 
 **5. Loading the gel ゲルにロードしよう！<br>**
+<img width="70%" alt="img" src="images/IMG_4638.jpeg"><br>
+<img width="70%" alt="img" src="images/IMG_4640.jpeg"><br>
+<img width="70%" alt="img" src="images/IMG_4642.jpeg"><br>
+<img width="70%" alt="img" src="images/IMG_4646.jpeg"><br>
