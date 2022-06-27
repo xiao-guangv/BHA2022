@@ -91,5 +91,7 @@ This result shows a person who has both copies of the T allele, so homozygous do
 4 – CC – Control (440 bp), C allele (328 bp)<br>
 This result shows a person who has both copies of the C allele, so homozygous recessive. This person is likely to be lactose intolerant as an adult.<br>
 
+※bp = base pairs<br>
+
 I can drink milk now, but it seems like I have C allele gene! wow.<br>
 私は今ミルク普通に飲めるけど、乳糖不耐性になる可能性が高い遺伝子みたい。ほんと？！
