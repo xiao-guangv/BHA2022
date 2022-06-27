@@ -23,5 +23,17 @@ The orange lid seals the gel box when the voltage is applied and also functions 
 <img width="70%" alt="img" src="images/IMG_4624.jpeg"><br>
 <img width="50%" alt="img" src="images/IMG_4625.jpeg"><br>
 Because the DNA molecule has a negative charge, due to its chemical structure, when a voltage is applied, the DNA fragments are pulled towards the positive electrode.<br>
-<img width="70%" alt="img" src="images/1_gel_molecular_animation.gif"><br>
+<img alt="img" src="images/1_gel_molecular_animation.gif"><br>
 
+**4. Place the gel and pour buffer solution ボックスにジェルと緩衝液を入れる<br>**
+Place the gel so that the wells are toward the negative electrode.<br>
+ゲルの穴が空いている方がマイナス電極の方になるように置く。<br>
+<img width="70%" alt="img" src="images/IMG_4632.jpeg"><br>
+<img width="70%" alt="img" src="images/IMG_4633.jpeg"><br>
+Use prepared 0.5X TBE buffer solution, and pour it over the gel until the gel is fully covered. The buffer should reach about 2-3mm above the gel.<br>
+ゲルの2-3mm上になるまで緩衝液を注ぐ。<br>
+<img width="70%" alt="img" src="images/IMG_4635.jpeg"><br>
+<img width="70%" alt="img" src="images/IMG_4636.jpeg"><br>
+<img width="70%" alt="img" src="images/IMG_4637.jpeg"><br>
+
+**5. Loading the gel ゲルにロードしよう！<br>**
