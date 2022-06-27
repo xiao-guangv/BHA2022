@@ -37,7 +37,41 @@ Use prepared 0.5X TBE buffer solution, and pour it over the gel until the gel is
 <img width="70%" alt="img" src="images/IMG_4637.jpeg"><br>
 
 **5. Loading the gel ゲルにロードしよう！<br>**
+Prepare DNA ladder and PCR products.<br>
+ラダーとPCRしたDNAたちを用意。<br>
+<img width="70%" alt="img" src="images/IMG_4628.jpeg"><br>
+<img width="70%" alt="img" src="images/IMG_4630.jpeg"><br>
+<img width="70%" alt="img" src="images/IMG_4622.jpeg"><br>
+↑This is my PCR product.<br>
+
+Make clear that which PCR product is which wells.<br>
+誰のDNAがどの穴に入れるか明確にしておく。<br>
+<img width="70%" alt="img" src="images/IMG_4631.jpeg"><br>
+↑DNA ladder is always the left. It's gonna be a ruler. Also if you have an empty well, you can load pure water to check that the result will be nothing.<br>
+
+It's time to load. This is a very delicate process.<br>
+This time set the pipette to 5μl.<br>
+The pipette should be oriented parallel to the hole.<br>
+To make pipetting into the well easier, put both elbows on the table. You can also support the pipette with your second hand and use it to help guide the tip into the well.<br>
+Also the button on the pipette should not be released to the outside of the hole.<br>
+ローディングは繊細な作業。ピペットは5μlにする。プロダクトを穴に入れるとき、ピペットの向きが穴のならびに平行になるように。垂直ではなく。両肘をテーブルに固定して、もう一方の手でピペットを支えてあげると良い。ピペットのボタンは、穴の外までリリースしないこと。<br>
 <img width="70%" alt="img" src="images/IMG_4638.jpeg"><br>
 <img width="70%" alt="img" src="images/IMG_4640.jpeg"><br>
 <img width="70%" alt="img" src="images/IMG_4642.jpeg"><br>
 <img width="70%" alt="img" src="images/IMG_4646.jpeg"><br>
+
+**6. Running the gel 電気泳動<br>**
+Slide on the lid. Set the voltage to 50V, then set a timer to 40 min, and start the run. Then　bubbles will appear around the electrodes, indicating electrolysis.<br>
+蓋を閉めて、電源を入れる。50Vで40分稼働。スタートすると、泡が出てくるのが動いてる証拠。<br>
+<img width="70%" alt="img" src="images/IMG_4648.jpeg"><br>
+<img width="70%" alt="img" src="images/IMG_4653.jpeg"><br>
+
+**7. Result 結果<br>**
+After the gel has run, you can pour away the buffer. It’s safe to discard in the sink.<br>
+Place the gel onto the blue transilluminator surface of Bento Lab. (It's ok to plave it directly.)<br>
+終わったら、緩衝液をシンクに捨てて、ジェルをイルミネーターの上におく。<br>
+<img width="50%" alt="img" src="images/IMG_4655.jpeg"><br>
+<img width="50%" alt="img" src="images/IMG_4656.jpeg"><br>
+
+This is the reslut we got.<br>
+<img width="60%" alt="img" src="images/IMG_4660.jpeg"><br>
