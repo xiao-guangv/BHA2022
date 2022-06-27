@@ -2,7 +2,7 @@
 
 ####  [1. Miso observing](1/1.md)
 
-####  [2. SCOBY tasting](../extra1/0414/index.md)
+####  [2. SCOBY tasting](../experiment1/extra1/0414/index.md)
 
 ####  [3. Learning about CRISPER](3/3.md)
 
