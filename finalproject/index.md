@@ -3,6 +3,10 @@
 
 **project name : "菌卜" divination by your own microbe**<br>
 I decided that my final project would be about communicating with E.coli!
+
+<img alt="img" src="images/misa_EN.pdf">
+<img alt="img" src="images/misa_JP.pdf">
+
 - [27th, April : Making black medium part.1](0427/index.md)
 - [28th, April : Begining to culture E.coli](0428/index.md)
 - [1th, May ~ : Making seperate speakers](speaker/index.md)
