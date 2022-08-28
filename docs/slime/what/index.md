@@ -20,11 +20,11 @@ But no matter how much the protoplasm is elongated, myxomycete is still a single
 
 
 
-<img alt="img" src="images/lifecycle.png">
+<img alt="img" src="images/lifecycle.png"><br>
 *↑モジホコリのライフサイクル / lifecycle of Physarum polycephalum*
 
-<img alt="img" src="images/1.png">
+<img alt="img" src="images/1.png"><br>
 *↑変形体 / Plasmodium*
 
-<img alt="img" src="images/2.png">
+<img alt="img" src="images/2.png"><br>
 *↑子実体 / Fruiting bodies*
