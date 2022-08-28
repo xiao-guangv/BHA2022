@@ -7,7 +7,7 @@ I decided that my final project would be about communicating with E.coli!
 <img alt="img" src="images/EN.jpg">
 <img alt="img" src="images/JP.jpg">
 
-[<img alt="img" src="https://i.vimeocdn.com/video/1446405149-7efa8725943ca5fbbcacaefd0a827ddccc554cb069c714f504ddf756a41ef87a-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png">](https://vimeo.com/717847806 "Click here to watch!")<br>
+[<img width="350" alt="img" src="https://i.vimeocdn.com/video/1446405149-7efa8725943ca5fbbcacaefd0a827ddccc554cb069c714f504ddf756a41ef87a-d_1280x720">](https://vimeo.com/717847806 "Click here to watch!")<br>
 *presentation in English*<br>
 
 - [27th, April : Making black medium part.1](0427/index.md)
