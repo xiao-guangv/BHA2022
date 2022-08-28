@@ -20,4 +20,7 @@
 
 - [pattern9: Hexagon in black](9/index.md)
 
+**[What is Physarum polycephalum?](what/index.md)**
+
+
 <img alt="img" src="images/2.jpeg">
