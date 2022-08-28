@@ -25,5 +25,3 @@ I decided that my final project would be about communicating with E.coli!
 [→My final presentation slides](https://docs.google.com/presentation/d/126RJC8qZFrV-dR9doajKyNnkbdTmzBI5QYv4yGhiFTE/edit?usp=sharing)<br>
 [→Each final presentation video in Japanese](https://vimeo.com/showcase/9584495)<br>
 [→Bills of Materials](bom/index.md)<br>
-
-<img alt="img" src="images/IMG_4673.jpeg">
